@@ -1,0 +1,56 @@
+# VN Checklists {#VN}
+
+
+## VN HNQIS Hypertension 
+
+    
+>__Checklist id__: dEzEakMxEv3   | __Server__: https://staging.psi-mis.org/ | __user__: VNdemo1 
+
+
+```{r, echo=F}
+  
+  # summary
+  generate_kable_1(form_id = 'dEzEakMxEv3', baseurl = 'https://staging.psi-mis.org/')
+  
+
+  # Detail 
+   generate_kable_2(form_id = 'dEzEakMxEv3', baseurl = 'https://staging.psi-mis.org/', ignore_text = T, ignore_parent = T, ignore_real_or_simulated = T)
+
+   
+```
+
+## VN HNQIS Malaria 
+
+    
+>__Checklist id__: SPS5p0x0Wwo   | __Server__: https://staging.psi-mis.org/ | __user__: VNdemo1 
+
+
+```{r, echo=F}
+  
+  # summary
+  generate_kable_1(form_id = 'SPS5p0x0Wwo', baseurl = 'https://staging.psi-mis.org/')
+  
+
+  # Detail 
+   generate_kable_2(form_id = 'SPS5p0x0Wwo', baseurl = 'https://staging.psi-mis.org/', ignore_text = T, ignore_parent = T, ignore_real_or_simulated = T)
+
+   
+```
+
+## VN HNQIS Malaria: pharmacies and non health outlets 
+
+    
+>__Checklist id__: qD8i8zk542M   | __Server__: https://staging.psi-mis.org/ | __user__: VNdemo1 
+
+
+```{r, echo=F}
+  
+  # summary
+  generate_kable_1(form_id = 'qD8i8zk542M', baseurl = 'https://staging.psi-mis.org/')
+  
+
+  # Detail 
+   generate_kable_2(form_id = 'qD8i8zk542M', baseurl = 'https://staging.psi-mis.org/', ignore_text = T, ignore_parent = T, ignore_real_or_simulated = T)
+
+   
+```

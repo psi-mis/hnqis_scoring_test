@@ -1,0 +1,74 @@
+# MM Checklists {#MM}
+
+
+## MM HNQIS Family Planning Counseling 
+
+    
+>__Checklist id__: gB17In9eqk9   | __Server__: https://myanmar.psi-mis.org/ | __user__: MMdemo1 
+
+
+```{r, echo=F}
+  
+  # summary
+  generate_kable_1(form_id = 'gB17In9eqk9', baseurl = 'https://myanmar.psi-mis.org/')
+  
+
+  # Detail 
+   generate_kable_2(form_id = 'gB17In9eqk9', baseurl = 'https://myanmar.psi-mis.org/', ignore_text = T, ignore_parent = T, ignore_real_or_simulated = T)
+
+   
+```
+
+## MM HNQIS Family Planning Short Acting Methods 
+
+    
+>__Checklist id__: oTTkZMBn1ms   | __Server__: https://myanmar.psi-mis.org/ | __user__: MMdemo1 
+
+
+```{r, echo=F}
+  
+  # summary
+  generate_kable_1(form_id = 'oTTkZMBn1ms', baseurl = 'https://myanmar.psi-mis.org/')
+  
+
+  # Detail 
+   generate_kable_2(form_id = 'oTTkZMBn1ms', baseurl = 'https://myanmar.psi-mis.org/', ignore_text = T, ignore_parent = T, ignore_real_or_simulated = T)
+
+   
+```
+
+## MM HNQIS Malaria 
+
+    
+>__Checklist id__: lUGqq3na2wn   | __Server__: https://myanmar.psi-mis.org/ | __user__: MMdemo1 
+
+
+```{r, echo=F}
+  
+  # summary
+  generate_kable_1(form_id = 'lUGqq3na2wn', baseurl = 'https://myanmar.psi-mis.org/')
+  
+
+  # Detail 
+   generate_kable_2(form_id = 'lUGqq3na2wn', baseurl = 'https://myanmar.psi-mis.org/', ignore_text = T, ignore_parent = T, ignore_real_or_simulated = T)
+
+   
+```
+
+## MM HNQIS Post Abortion Care 
+
+    
+>__Checklist id__: EpxhxdX4RXn   | __Server__: https://myanmar.psi-mis.org/ | __user__: MMdemo1 
+
+
+```{r, echo=F}
+  
+  # summary
+  generate_kable_1(form_id = 'EpxhxdX4RXn', baseurl = 'https://myanmar.psi-mis.org/')
+  
+
+  # Detail 
+   generate_kable_2(form_id = 'EpxhxdX4RXn', baseurl = 'https://myanmar.psi-mis.org/', ignore_text = T, ignore_parent = T, ignore_real_or_simulated = T)
+
+   
+```

@@ -1,0 +1,146 @@
+# ML Checklists {#ML}
+
+
+## ML HNQIS Cancer du Col 
+
+    
+>__Checklist id__: ut7nkYZUTLP   | __Server__: https://staging.psi-mis.org/ | __user__: MLdemo1 
+
+
+```{r, echo=F}
+  
+  # summary
+  generate_kable_1(form_id = 'ut7nkYZUTLP', baseurl = 'https://staging.psi-mis.org/')
+  
+
+  # Detail 
+   generate_kable_2(form_id = 'ut7nkYZUTLP', baseurl = 'https://staging.psi-mis.org/', ignore_text = T, ignore_parent = T, ignore_real_or_simulated = T)
+
+   
+```
+
+## ML HNQIS Choix éclairé 
+
+    
+>__Checklist id__: PE0Dx2KwvOL   | __Server__: https://staging.psi-mis.org/ | __user__: MLdemo1 
+
+
+```{r, echo=F}
+  
+  # summary
+  generate_kable_1(form_id = 'PE0Dx2KwvOL', baseurl = 'https://staging.psi-mis.org/')
+  
+
+  # Detail 
+   generate_kable_2(form_id = 'PE0Dx2KwvOL', baseurl = 'https://staging.psi-mis.org/', ignore_text = T, ignore_parent = T, ignore_real_or_simulated = T)
+
+   
+```
+
+## ML HNQIS Client Based Record Management (CBRM) 
+
+    
+>__Checklist id__: yTA1y1adJc5   | __Server__: https://staging.psi-mis.org/ | __user__: MLdemo1 
+
+
+```{r, echo=F}
+  
+  # summary
+  generate_kable_1(form_id = 'yTA1y1adJc5', baseurl = 'https://staging.psi-mis.org/')
+  
+
+  # Detail 
+   generate_kable_2(form_id = 'yTA1y1adJc5', baseurl = 'https://staging.psi-mis.org/', ignore_text = T, ignore_parent = T, ignore_real_or_simulated = T)
+
+   
+```
+
+## ML HNQIS PF: Counseling 
+
+    
+>__Checklist id__: Jaor9wzrAmi   | __Server__: https://staging.psi-mis.org/ | __user__: MLdemo1 
+
+
+```{r, echo=F}
+  
+  # summary
+  generate_kable_1(form_id = 'Jaor9wzrAmi', baseurl = 'https://staging.psi-mis.org/')
+  
+
+  # Detail 
+   generate_kable_2(form_id = 'Jaor9wzrAmi', baseurl = 'https://staging.psi-mis.org/', ignore_text = T, ignore_parent = T, ignore_real_or_simulated = T)
+
+   
+```
+
+## ML HNQIS PF: Méthodes à longue durée d' action 
+
+    
+>__Checklist id__: jDvffOBtPxu   | __Server__: https://staging.psi-mis.org/ | __user__: MLdemo1 
+
+
+```{r, echo=F}
+  
+  # summary
+  generate_kable_1(form_id = 'jDvffOBtPxu', baseurl = 'https://staging.psi-mis.org/')
+  
+
+  # Detail 
+   generate_kable_2(form_id = 'jDvffOBtPxu', baseurl = 'https://staging.psi-mis.org/', ignore_text = T, ignore_parent = T, ignore_real_or_simulated = T)
+
+   
+```
+
+## ML HNQIS Planification familiale v1 
+
+    
+>__Checklist id__: HO9DrFSHoXQ   | __Server__: https://staging.psi-mis.org/ | __user__: MLdemo1 
+
+
+```{r, echo=F}
+  
+  # summary
+  generate_kable_1(form_id = 'HO9DrFSHoXQ', baseurl = 'https://staging.psi-mis.org/')
+  
+
+  # Detail 
+   generate_kable_2(form_id = 'HO9DrFSHoXQ', baseurl = 'https://staging.psi-mis.org/', ignore_text = T, ignore_parent = T, ignore_real_or_simulated = T)
+
+   
+```
+
+## ML HNQIS Soins de post-avortement 
+
+    
+>__Checklist id__: cR1kBY3Ak0o   | __Server__: https://staging.psi-mis.org/ | __user__: MLdemo1 
+
+
+```{r, echo=F}
+  
+  # summary
+  generate_kable_1(form_id = 'cR1kBY3Ak0o', baseurl = 'https://staging.psi-mis.org/')
+  
+
+  # Detail 
+   generate_kable_2(form_id = 'cR1kBY3Ak0o', baseurl = 'https://staging.psi-mis.org/', ignore_text = T, ignore_parent = T, ignore_real_or_simulated = T)
+
+   
+```
+
+## ML HNQIS Évaluation de l'environnement de travail 
+
+    
+>__Checklist id__: jncwLCuzYhQ   | __Server__: https://staging.psi-mis.org/ | __user__: MLdemo1 
+
+
+```{r, echo=F}
+  
+  # summary
+  generate_kable_1(form_id = 'jncwLCuzYhQ', baseurl = 'https://staging.psi-mis.org/')
+  
+
+  # Detail 
+   generate_kable_2(form_id = 'jncwLCuzYhQ', baseurl = 'https://staging.psi-mis.org/', ignore_text = T, ignore_parent = T, ignore_real_or_simulated = T)
+
+   
+```

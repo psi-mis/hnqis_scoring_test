@@ -1,0 +1,290 @@
+# SM Checklists {#SM}
+
+
+## SM HNQIS Birth Spacing Long Acting and Reversible Methods 
+
+    
+>__Checklist id__: Ga7Fi2lPd8v   | __Server__: https://sm-dev.hnqis.org/ | __user__: SMdemo1 
+
+
+```{r, echo=F}
+  
+  # summary
+  generate_kable_1(form_id = 'Ga7Fi2lPd8v', baseurl = 'https://sm-dev.hnqis.org/')
+  
+
+  # Detail 
+   generate_kable_2(form_id = 'Ga7Fi2lPd8v', baseurl = 'https://sm-dev.hnqis.org/', ignore_text = T, ignore_parent = T, ignore_real_or_simulated = T)
+
+   
+```
+
+## SM HNQIS Birth Spacing Short Acting Methods 
+
+    
+>__Checklist id__: gqAV6XNoEv2   | __Server__: https://sm-dev.hnqis.org/ | __user__: SMdemo1 
+
+
+```{r, echo=F}
+  
+  # summary
+  generate_kable_1(form_id = 'gqAV6XNoEv2', baseurl = 'https://sm-dev.hnqis.org/')
+  
+
+  # Detail 
+   generate_kable_2(form_id = 'gqAV6XNoEv2', baseurl = 'https://sm-dev.hnqis.org/', ignore_text = T, ignore_parent = T, ignore_real_or_simulated = T)
+
+   
+```
+
+## SM HNQIS Cervical Cancer VIA Screening and Cryotherapy 
+
+    
+>__Checklist id__: NNshJ24SbZT   | __Server__: https://sm-dev.hnqis.org/ | __user__: SMdemo1 
+
+
+```{r, echo=F}
+  
+  # summary
+  generate_kable_1(form_id = 'NNshJ24SbZT', baseurl = 'https://sm-dev.hnqis.org/')
+  
+
+  # Detail 
+   generate_kable_2(form_id = 'NNshJ24SbZT', baseurl = 'https://sm-dev.hnqis.org/', ignore_text = T, ignore_parent = T, ignore_real_or_simulated = T)
+
+   
+```
+
+## SM HNQIS Health Center Community Participation and Health Education 
+
+    
+>__Checklist id__: H1GyIowZmNa   | __Server__: https://sm-dev.hnqis.org/ | __user__: SMdemo1 
+
+
+```{r, echo=F}
+  
+  # summary
+  generate_kable_1(form_id = 'H1GyIowZmNa', baseurl = 'https://sm-dev.hnqis.org/')
+  
+
+  # Detail 
+   generate_kable_2(form_id = 'H1GyIowZmNa', baseurl = 'https://sm-dev.hnqis.org/', ignore_text = T, ignore_parent = T, ignore_real_or_simulated = T)
+
+   
+```
+
+## SM HNQIS Health Center Personnel and Infrastructure 
+
+    
+>__Checklist id__: XPeirPFgA77   | __Server__: https://sm-dev.hnqis.org/ | __user__: SMdemo1 
+
+
+```{r, echo=F}
+  
+  # summary
+  generate_kable_1(form_id = 'XPeirPFgA77', baseurl = 'https://sm-dev.hnqis.org/')
+  
+
+  # Detail 
+   generate_kable_2(form_id = 'XPeirPFgA77', baseurl = 'https://sm-dev.hnqis.org/', ignore_text = T, ignore_parent = T, ignore_real_or_simulated = T)
+
+   
+```
+
+## SM HNQIS Health Center Programs and Health System Support 
+
+    
+>__Checklist id__: qm5zqVuy8XN   | __Server__: https://sm-dev.hnqis.org/ | __user__: SMdemo1 
+
+
+```{r, echo=F}
+  
+  # summary
+  generate_kable_1(form_id = 'qm5zqVuy8XN', baseurl = 'https://sm-dev.hnqis.org/')
+  
+
+  # Detail 
+   generate_kable_2(form_id = 'qm5zqVuy8XN', baseurl = 'https://sm-dev.hnqis.org/', ignore_text = T, ignore_parent = T, ignore_real_or_simulated = T)
+
+   
+```
+
+## SM HNQIS Hypertension 
+
+    
+>__Checklist id__: BGjaWMpa43H   | __Server__: https://sm-dev.hnqis.org/ | __user__: SMdemo1 
+
+
+```{r, echo=F}
+  
+  # summary
+  generate_kable_1(form_id = 'BGjaWMpa43H', baseurl = 'https://sm-dev.hnqis.org/')
+  
+
+  # Detail 
+   generate_kable_2(form_id = 'BGjaWMpa43H', baseurl = 'https://sm-dev.hnqis.org/', ignore_text = T, ignore_parent = T, ignore_real_or_simulated = T)
+
+   
+```
+
+## SM HNQIS IMCI 
+
+    
+>__Checklist id__: Lv6JwtgtFs9   | __Server__: https://sm-dev.hnqis.org/ | __user__: SMdemo1 
+
+
+```{r, echo=F}
+  
+  # summary
+  generate_kable_1(form_id = 'Lv6JwtgtFs9', baseurl = 'https://sm-dev.hnqis.org/')
+  
+
+  # Detail 
+   generate_kable_2(form_id = 'Lv6JwtgtFs9', baseurl = 'https://sm-dev.hnqis.org/', ignore_text = T, ignore_parent = T, ignore_real_or_simulated = T)
+
+   
+```
+
+## SM HNQIS LARC and PAC Facility checklist 
+
+    
+>__Checklist id__: r2csrD2gvg8   | __Server__: https://sm-dev.hnqis.org/ | __user__: SMdemo1 
+
+
+```{r, echo=F}
+  
+  # summary
+  generate_kable_1(form_id = 'r2csrD2gvg8', baseurl = 'https://sm-dev.hnqis.org/')
+  
+
+  # Detail 
+   generate_kable_2(form_id = 'r2csrD2gvg8', baseurl = 'https://sm-dev.hnqis.org/', ignore_text = T, ignore_parent = T, ignore_real_or_simulated = T)
+
+   
+```
+
+## SM HNQIS Malaria 
+
+    
+>__Checklist id__: Kx9HbYw62bM   | __Server__: https://sm-dev.hnqis.org/ | __user__: SMdemo1 
+
+
+```{r, echo=F}
+  
+  # summary
+  generate_kable_1(form_id = 'Kx9HbYw62bM', baseurl = 'https://sm-dev.hnqis.org/')
+  
+
+  # Detail 
+   generate_kable_2(form_id = 'Kx9HbYw62bM', baseurl = 'https://sm-dev.hnqis.org/', ignore_text = T, ignore_parent = T, ignore_real_or_simulated = T)
+
+   
+```
+
+## SM HNQIS Maternal and Newborn Health 
+
+    
+>__Checklist id__: jKgKOUlFl36   | __Server__: https://sm-dev.hnqis.org/ | __user__: SMdemo1 
+
+
+```{r, echo=F}
+  
+  # summary
+  generate_kable_1(form_id = 'jKgKOUlFl36', baseurl = 'https://sm-dev.hnqis.org/')
+  
+
+  # Detail 
+   generate_kable_2(form_id = 'jKgKOUlFl36', baseurl = 'https://sm-dev.hnqis.org/', ignore_text = T, ignore_parent = T, ignore_real_or_simulated = T)
+
+   
+```
+
+## SM HNQIS Post Abortion Care 
+
+    
+>__Checklist id__: s3uO1m16w5j   | __Server__: https://sm-dev.hnqis.org/ | __user__: SMdemo1 
+
+
+```{r, echo=F}
+  
+  # summary
+  generate_kable_1(form_id = 's3uO1m16w5j', baseurl = 'https://sm-dev.hnqis.org/')
+  
+
+  # Detail 
+   generate_kable_2(form_id = 's3uO1m16w5j', baseurl = 'https://sm-dev.hnqis.org/', ignore_text = T, ignore_parent = T, ignore_real_or_simulated = T)
+
+   
+```
+
+## SM HNQIS Regional Hospital Community Participation and Health Education 
+
+    
+>__Checklist id__: GV4XUY8UakS   | __Server__: https://sm-dev.hnqis.org/ | __user__: SMdemo1 
+
+
+```{r, echo=F}
+  
+  # summary
+  generate_kable_1(form_id = 'GV4XUY8UakS', baseurl = 'https://sm-dev.hnqis.org/')
+  
+
+  # Detail 
+   generate_kable_2(form_id = 'GV4XUY8UakS', baseurl = 'https://sm-dev.hnqis.org/', ignore_text = T, ignore_parent = T, ignore_real_or_simulated = T)
+
+   
+```
+
+## SM HNQIS Regional Hospital Personnel and Infrastructure 
+
+    
+>__Checklist id__: ZWm96p54HYQ   | __Server__: https://sm-dev.hnqis.org/ | __user__: SMdemo1 
+
+
+```{r, echo=F}
+  
+  # summary
+  generate_kable_1(form_id = 'ZWm96p54HYQ', baseurl = 'https://sm-dev.hnqis.org/')
+  
+
+  # Detail 
+   generate_kable_2(form_id = 'ZWm96p54HYQ', baseurl = 'https://sm-dev.hnqis.org/', ignore_text = T, ignore_parent = T, ignore_real_or_simulated = T)
+
+   
+```
+
+## SM HNQIS Regional Hospital Programs and Health System Support 
+
+    
+>__Checklist id__: aDv6SIIA3He   | __Server__: https://sm-dev.hnqis.org/ | __user__: SMdemo1 
+
+
+```{r, echo=F}
+  
+  # summary
+  generate_kable_1(form_id = 'aDv6SIIA3He', baseurl = 'https://sm-dev.hnqis.org/')
+  
+
+  # Detail 
+   generate_kable_2(form_id = 'aDv6SIIA3He', baseurl = 'https://sm-dev.hnqis.org/', ignore_text = T, ignore_parent = T, ignore_real_or_simulated = T)
+
+   
+```
+
+## SM HNQIS Sexually Transmitted Infections 
+
+    
+>__Checklist id__: WHqSECHTMs4   | __Server__: https://sm-dev.hnqis.org/ | __user__: SMdemo1 
+
+
+```{r, echo=F}
+  
+  # summary
+  generate_kable_1(form_id = 'WHqSECHTMs4', baseurl = 'https://sm-dev.hnqis.org/')
+  
+
+  # Detail 
+   generate_kable_2(form_id = 'WHqSECHTMs4', baseurl = 'https://sm-dev.hnqis.org/', ignore_text = T, ignore_parent = T, ignore_real_or_simulated = T)
+
+   
+```

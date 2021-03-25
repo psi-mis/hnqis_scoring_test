@@ -1,0 +1,74 @@
+# NI Checklists {#NI}
+
+
+## NI HNQIS Atención posterior al aborto (APA) 
+
+    
+>__Checklist id__: bHs2qG1EvNV   | __Server__: https://staging.psi-mis.org/ | __user__: NIdemo1 
+
+
+```{r, echo=F}
+  
+  # summary
+  generate_kable_1(form_id = 'bHs2qG1EvNV', baseurl = 'https://staging.psi-mis.org/')
+  
+
+  # Detail 
+   generate_kable_2(form_id = 'bHs2qG1EvNV', baseurl = 'https://staging.psi-mis.org/', ignore_text = T, ignore_parent = T, ignore_real_or_simulated = T)
+
+   
+```
+
+## NI HNQIS Manejo de Registros basados en el cliente (CBRM) 
+
+    
+>__Checklist id__: Ryyfqnx9Cgg   | __Server__: https://staging.psi-mis.org/ | __user__: NIdemo1 
+
+
+```{r, echo=F}
+  
+  # summary
+  generate_kable_1(form_id = 'Ryyfqnx9Cgg', baseurl = 'https://staging.psi-mis.org/')
+  
+
+  # Detail 
+   generate_kable_2(form_id = 'Ryyfqnx9Cgg', baseurl = 'https://staging.psi-mis.org/', ignore_text = T, ignore_parent = T, ignore_real_or_simulated = T)
+
+   
+```
+
+## NI HNQIS PF: Asesoría 
+
+    
+>__Checklist id__: g7cV8cVtb0p   | __Server__: https://staging.psi-mis.org/ | __user__: NIdemo1 
+
+
+```{r, echo=F}
+  
+  # summary
+  generate_kable_1(form_id = 'g7cV8cVtb0p', baseurl = 'https://staging.psi-mis.org/')
+  
+
+  # Detail 
+   generate_kable_2(form_id = 'g7cV8cVtb0p', baseurl = 'https://staging.psi-mis.org/', ignore_text = T, ignore_parent = T, ignore_real_or_simulated = T)
+
+   
+```
+
+## NI HNQIS PF: Métodos de acción prolongada y permanente 
+
+    
+>__Checklist id__: VCKsofNTb08   | __Server__: https://staging.psi-mis.org/ | __user__: NIdemo1 
+
+
+```{r, echo=F}
+  
+  # summary
+  generate_kable_1(form_id = 'VCKsofNTb08', baseurl = 'https://staging.psi-mis.org/')
+  
+
+  # Detail 
+   generate_kable_2(form_id = 'VCKsofNTb08', baseurl = 'https://staging.psi-mis.org/', ignore_text = T, ignore_parent = T, ignore_real_or_simulated = T)
+
+   
+```

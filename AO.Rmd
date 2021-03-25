@@ -1,0 +1,164 @@
+# AO Checklists {#AO}
+
+
+## AO HNQIS Cuidados Pós-Aborto 
+
+    
+>__Checklist id__: ZFRR0bIqi7R   | __Server__: https://staging.psi-mis.org/ | __user__: AOdemo1 
+
+
+```{r, echo=F}
+  
+  # summary
+  generate_kable_1(form_id = 'ZFRR0bIqi7R', baseurl = 'https://staging.psi-mis.org/')
+  
+
+  # Detail 
+   generate_kable_2(form_id = 'ZFRR0bIqi7R', baseurl = 'https://staging.psi-mis.org/', ignore_text = T, ignore_parent = T, ignore_real_or_simulated = T)
+
+   
+```
+
+## AO HNQIS IMCI (criança entre 2 meses e 5 anos, doente) 
+
+    
+>__Checklist id__: fQ3nt23Xk9U   | __Server__: https://staging.psi-mis.org/ | __user__: AOdemo1 
+
+
+```{r, echo=F}
+  
+  # summary
+  generate_kable_1(form_id = 'fQ3nt23Xk9U', baseurl = 'https://staging.psi-mis.org/')
+  
+
+  # Detail 
+   generate_kable_2(form_id = 'fQ3nt23Xk9U', baseurl = 'https://staging.psi-mis.org/', ignore_text = T, ignore_parent = T, ignore_real_or_simulated = T)
+
+   
+```
+
+## AO HNQIS Lista de Verificação Auditoria da Unidade 
+
+    
+>__Checklist id__: MKAdktgNYJB   | __Server__: https://staging.psi-mis.org/ | __user__: AOdemo1 
+
+
+```{r, echo=F}
+  
+  # summary
+  generate_kable_1(form_id = 'MKAdktgNYJB', baseurl = 'https://staging.psi-mis.org/')
+  
+
+  # Detail 
+   generate_kable_2(form_id = 'MKAdktgNYJB', baseurl = 'https://staging.psi-mis.org/', ignore_text = T, ignore_parent = T, ignore_real_or_simulated = T)
+
+   
+```
+
+## AO HNQIS Lista de verificação do Centro para gestão de registo baseado no cliente 
+
+    
+>__Checklist id__: ZGs7fMFKWZz   | __Server__: https://staging.psi-mis.org/ | __user__: AOdemo1 
+
+
+```{r, echo=F}
+  
+  # summary
+  generate_kable_1(form_id = 'ZGs7fMFKWZz', baseurl = 'https://staging.psi-mis.org/')
+  
+
+  # Detail 
+   generate_kable_2(form_id = 'ZGs7fMFKWZz', baseurl = 'https://staging.psi-mis.org/', ignore_text = T, ignore_parent = T, ignore_real_or_simulated = T)
+
+   
+```
+
+## AO HNQIS Malária 
+
+    
+>__Checklist id__: CxLJE2hJK37   | __Server__: https://staging.psi-mis.org/ | __user__: AOdemo1 
+
+
+```{r, echo=F}
+  
+  # summary
+  generate_kable_1(form_id = 'CxLJE2hJK37', baseurl = 'https://staging.psi-mis.org/')
+  
+
+  # Detail 
+   generate_kable_2(form_id = 'CxLJE2hJK37', baseurl = 'https://staging.psi-mis.org/', ignore_text = T, ignore_parent = T, ignore_real_or_simulated = T)
+
+   
+```
+
+## AO HNQIS Planeamento Familiar 
+
+    
+>__Checklist id__: m9cflg8ks4W   | __Server__: https://staging.psi-mis.org/ | __user__: AOdemo1 
+
+
+```{r, echo=F}
+  
+  # summary
+  generate_kable_1(form_id = 'm9cflg8ks4W', baseurl = 'https://staging.psi-mis.org/')
+  
+
+  # Detail 
+   generate_kable_2(form_id = 'm9cflg8ks4W', baseurl = 'https://staging.psi-mis.org/', ignore_text = T, ignore_parent = T, ignore_real_or_simulated = T)
+
+   
+```
+
+## AO HNQIS Planeamento Familiar: Aconselhamento 
+
+    
+>__Checklist id__: k4CUg9pfIJw   | __Server__: https://staging.psi-mis.org/ | __user__: AOdemo1 
+
+
+```{r, echo=F}
+  
+  # summary
+  generate_kable_1(form_id = 'k4CUg9pfIJw', baseurl = 'https://staging.psi-mis.org/')
+  
+
+  # Detail 
+   generate_kable_2(form_id = 'k4CUg9pfIJw', baseurl = 'https://staging.psi-mis.org/', ignore_text = T, ignore_parent = T, ignore_real_or_simulated = T)
+
+   
+```
+
+## AO HNQIS Planeamento familiar: Métodos de curta duração 
+
+    
+>__Checklist id__: wzUg0dpcIZl   | __Server__: https://staging.psi-mis.org/ | __user__: AOdemo1 
+
+
+```{r, echo=F}
+  
+  # summary
+  generate_kable_1(form_id = 'wzUg0dpcIZl', baseurl = 'https://staging.psi-mis.org/')
+  
+
+  # Detail 
+   generate_kable_2(form_id = 'wzUg0dpcIZl', baseurl = 'https://staging.psi-mis.org/', ignore_text = T, ignore_parent = T, ignore_real_or_simulated = T)
+
+   
+```
+
+## AO HNQIS Planeamento Familiar: Métodos de Longa Duração e Métodos Permanentes 
+
+    
+>__Checklist id__: Z5jKuy5I6j2   | __Server__: https://staging.psi-mis.org/ | __user__: AOdemo1 
+
+
+```{r, echo=F}
+  
+  # summary
+  generate_kable_1(form_id = 'Z5jKuy5I6j2', baseurl = 'https://staging.psi-mis.org/')
+  
+
+  # Detail 
+   generate_kable_2(form_id = 'Z5jKuy5I6j2', baseurl = 'https://staging.psi-mis.org/', ignore_text = T, ignore_parent = T, ignore_real_or_simulated = T)
+
+   
+```

@@ -1,0 +1,290 @@
+# UG Checklists {#UG}
+
+
+## UG HNQIS Cervical Cancer 
+
+    
+>__Checklist id__: rVW8uTK9UuA   | __Server__: https://staging.psi-mis.org/ | __user__: UGdemo1 
+
+
+```{r, echo=F}
+  
+  # summary
+  generate_kable_1(form_id = 'rVW8uTK9UuA', baseurl = 'https://staging.psi-mis.org/')
+  
+
+  # Detail 
+   generate_kable_2(form_id = 'rVW8uTK9UuA', baseurl = 'https://staging.psi-mis.org/', ignore_text = T, ignore_parent = T, ignore_real_or_simulated = T)
+
+   
+```
+
+## UG HNQIS Client Based Record Management 
+
+    
+>__Checklist id__: SF4Y4QJGTQm   | __Server__: https://staging.psi-mis.org/ | __user__: UGdemo1 
+
+
+```{r, echo=F}
+  
+  # summary
+  generate_kable_1(form_id = 'SF4Y4QJGTQm', baseurl = 'https://staging.psi-mis.org/')
+  
+
+  # Detail 
+   generate_kable_2(form_id = 'SF4Y4QJGTQm', baseurl = 'https://staging.psi-mis.org/', ignore_text = T, ignore_parent = T, ignore_real_or_simulated = T)
+
+   
+```
+
+## UG HNQIS Client Based Record Management v1 
+
+    
+>__Checklist id__: r2oWG4BCti7   | __Server__: https://staging.psi-mis.org/ | __user__: UGdemo1 
+
+
+```{r, echo=F}
+  
+  # summary
+  generate_kable_1(form_id = 'r2oWG4BCti7', baseurl = 'https://staging.psi-mis.org/')
+  
+
+  # Detail 
+   generate_kable_2(form_id = 'r2oWG4BCti7', baseurl = 'https://staging.psi-mis.org/', ignore_text = T, ignore_parent = T, ignore_real_or_simulated = T)
+
+   
+```
+
+## UG HNQIS Family Planning 
+
+    
+>__Checklist id__: N5Voq6TL4hk   | __Server__: https://staging.psi-mis.org/ | __user__: UGdemo1 
+
+
+```{r, echo=F}
+  
+  # summary
+  generate_kable_1(form_id = 'N5Voq6TL4hk', baseurl = 'https://staging.psi-mis.org/')
+  
+
+  # Detail 
+   generate_kable_2(form_id = 'N5Voq6TL4hk', baseurl = 'https://staging.psi-mis.org/', ignore_text = T, ignore_parent = T, ignore_real_or_simulated = T)
+
+   
+```
+
+## UG HNQIS Family Planning Counseling 
+
+    
+>__Checklist id__: LhpBo329KgA   | __Server__: https://staging.psi-mis.org/ | __user__: UGdemo1 
+
+
+```{r, echo=F}
+  
+  # summary
+  generate_kable_1(form_id = 'LhpBo329KgA', baseurl = 'https://staging.psi-mis.org/')
+  
+
+  # Detail 
+   generate_kable_2(form_id = 'LhpBo329KgA', baseurl = 'https://staging.psi-mis.org/', ignore_text = T, ignore_parent = T, ignore_real_or_simulated = T)
+
+   
+```
+
+## UG HNQIS Family Planning: Long Acting and Permanent Methods 
+
+    
+>__Checklist id__: xUZKZbqE6aR   | __Server__: https://staging.psi-mis.org/ | __user__: UGdemo1 
+
+
+```{r, echo=F}
+  
+  # summary
+  generate_kable_1(form_id = 'xUZKZbqE6aR', baseurl = 'https://staging.psi-mis.org/')
+  
+
+  # Detail 
+   generate_kable_2(form_id = 'xUZKZbqE6aR', baseurl = 'https://staging.psi-mis.org/', ignore_text = T, ignore_parent = T, ignore_real_or_simulated = T)
+
+   
+```
+
+## UG HNQIS Family Planning: Short Acting Methods 
+
+    
+>__Checklist id__: GT4rCqGYBY8   | __Server__: https://staging.psi-mis.org/ | __user__: UGdemo1 
+
+
+```{r, echo=F}
+  
+  # summary
+  generate_kable_1(form_id = 'GT4rCqGYBY8', baseurl = 'https://staging.psi-mis.org/')
+  
+
+  # Detail 
+   generate_kable_2(form_id = 'GT4rCqGYBY8', baseurl = 'https://staging.psi-mis.org/', ignore_text = T, ignore_parent = T, ignore_real_or_simulated = T)
+
+   
+```
+
+## UG HNQIS Hypertension 
+
+    
+>__Checklist id__: djidD8w5FBi   | __Server__: https://staging.psi-mis.org/ | __user__: UGdemo1 
+
+
+```{r, echo=F}
+  
+  # summary
+  generate_kable_1(form_id = 'djidD8w5FBi', baseurl = 'https://staging.psi-mis.org/')
+  
+
+  # Detail 
+   generate_kable_2(form_id = 'djidD8w5FBi', baseurl = 'https://staging.psi-mis.org/', ignore_text = T, ignore_parent = T, ignore_real_or_simulated = T)
+
+   
+```
+
+## UG HNQIS IMCI 
+
+    
+>__Checklist id__: SalT0CkG0rB   | __Server__: https://staging.psi-mis.org/ | __user__: UGdemo1 
+
+
+```{r, echo=F}
+  
+  # summary
+  generate_kable_1(form_id = 'SalT0CkG0rB', baseurl = 'https://staging.psi-mis.org/')
+  
+
+  # Detail 
+   generate_kable_2(form_id = 'SalT0CkG0rB', baseurl = 'https://staging.psi-mis.org/', ignore_text = T, ignore_parent = T, ignore_real_or_simulated = T)
+
+   
+```
+
+## UG HNQIS Malaria 
+
+    
+>__Checklist id__: ujcWR7ke1R6   | __Server__: https://staging.psi-mis.org/ | __user__: UGdemo1 
+
+
+```{r, echo=F}
+  
+  # summary
+  generate_kable_1(form_id = 'ujcWR7ke1R6', baseurl = 'https://staging.psi-mis.org/')
+  
+
+  # Detail 
+   generate_kable_2(form_id = 'ujcWR7ke1R6', baseurl = 'https://staging.psi-mis.org/', ignore_text = T, ignore_parent = T, ignore_real_or_simulated = T)
+
+   
+```
+
+## UG HNQIS Maternal and Newborn Health 
+
+    
+>__Checklist id__: MlRAnNVQxt9   | __Server__: https://staging.psi-mis.org/ | __user__: UGdemo1 
+
+
+```{r, echo=F}
+  
+  # summary
+  generate_kable_1(form_id = 'MlRAnNVQxt9', baseurl = 'https://staging.psi-mis.org/')
+  
+
+  # Detail 
+   generate_kable_2(form_id = 'MlRAnNVQxt9', baseurl = 'https://staging.psi-mis.org/', ignore_text = T, ignore_parent = T, ignore_real_or_simulated = T)
+
+   
+```
+
+## UG HNQIS Newborn Resuscitation 
+
+    
+>__Checklist id__: pjDyLzLW9qg   | __Server__: https://staging.psi-mis.org/ | __user__: UGdemo1 
+
+
+```{r, echo=F}
+  
+  # summary
+  generate_kable_1(form_id = 'pjDyLzLW9qg', baseurl = 'https://staging.psi-mis.org/')
+  
+
+  # Detail 
+   generate_kable_2(form_id = 'pjDyLzLW9qg', baseurl = 'https://staging.psi-mis.org/', ignore_text = T, ignore_parent = T, ignore_real_or_simulated = T)
+
+   
+```
+
+## UG HNQIS Post Abortion Care 
+
+    
+>__Checklist id__: eKXy2qrtIXc   | __Server__: https://staging.psi-mis.org/ | __user__: UGdemo1 
+
+
+```{r, echo=F}
+  
+  # summary
+  generate_kable_1(form_id = 'eKXy2qrtIXc', baseurl = 'https://staging.psi-mis.org/')
+  
+
+  # Detail 
+   generate_kable_2(form_id = 'eKXy2qrtIXc', baseurl = 'https://staging.psi-mis.org/', ignore_text = T, ignore_parent = T, ignore_real_or_simulated = T)
+
+   
+```
+
+## UG HNQIS Sexually Transmitted Infections 
+
+    
+>__Checklist id__: UilVJnQUH61   | __Server__: https://staging.psi-mis.org/ | __user__: UGdemo1 
+
+
+```{r, echo=F}
+  
+  # summary
+  generate_kable_1(form_id = 'UilVJnQUH61', baseurl = 'https://staging.psi-mis.org/')
+  
+
+  # Detail 
+   generate_kable_2(form_id = 'UilVJnQUH61', baseurl = 'https://staging.psi-mis.org/', ignore_text = T, ignore_parent = T, ignore_real_or_simulated = T)
+
+   
+```
+
+## UG HNQIS Vasectomy 
+
+    
+>__Checklist id__: HDMaLz059t3   | __Server__: https://staging.psi-mis.org/ | __user__: UGdemo1 
+
+
+```{r, echo=F}
+  
+  # summary
+  generate_kable_1(form_id = 'HDMaLz059t3', baseurl = 'https://staging.psi-mis.org/')
+  
+
+  # Detail 
+   generate_kable_2(form_id = 'HDMaLz059t3', baseurl = 'https://staging.psi-mis.org/', ignore_text = T, ignore_parent = T, ignore_real_or_simulated = T)
+
+   
+```
+
+## UG HNQIS Work Environment Assessment 
+
+    
+>__Checklist id__: Cvx6dleLxri   | __Server__: https://staging.psi-mis.org/ | __user__: UGdemo1 
+
+
+```{r, echo=F}
+  
+  # summary
+  generate_kable_1(form_id = 'Cvx6dleLxri', baseurl = 'https://staging.psi-mis.org/')
+  
+
+  # Detail 
+   generate_kable_2(form_id = 'Cvx6dleLxri', baseurl = 'https://staging.psi-mis.org/', ignore_text = T, ignore_parent = T, ignore_real_or_simulated = T)
+
+   
+```

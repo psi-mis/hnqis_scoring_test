@@ -1,0 +1,164 @@
+# ZA Checklists {#ZA}
+
+
+## ZA HNQIS HIV HTS Counseling and Testing Sit-in Supervision tool 
+
+    
+>__Checklist id__: sVitOIK8xZb   | __Server__: http://sfhza.psi-mis.org/ | __user__: ZAdemo1 
+
+
+```{r, echo=F}
+  
+  # summary
+  generate_kable_1(form_id = 'sVitOIK8xZb', baseurl = 'http://sfhza.psi-mis.org/')
+  
+
+  # Detail 
+   generate_kable_2(form_id = 'sVitOIK8xZb', baseurl = 'http://sfhza.psi-mis.org/', ignore_text = T, ignore_parent = T, ignore_real_or_simulated = T)
+
+   
+```
+
+## ZA HNQIS HIV Site Assessment Form 
+
+    
+>__Checklist id__: ExKwKgYhXP4   | __Server__: http://sfhza.psi-mis.org/ | __user__: ZAdemo1 
+
+
+```{r, echo=F}
+  
+  # summary
+  generate_kable_1(form_id = 'ExKwKgYhXP4', baseurl = 'http://sfhza.psi-mis.org/')
+  
+
+  # Detail 
+   generate_kable_2(form_id = 'ExKwKgYhXP4', baseurl = 'http://sfhza.psi-mis.org/', ignore_text = T, ignore_parent = T, ignore_real_or_simulated = T)
+
+   
+```
+
+## ZA HNQIS HIV SPI-RT Checklist 
+
+    
+>__Checklist id__: gPrKFKyfC3v   | __Server__: http://sfhza.psi-mis.org/ | __user__: ZAdemo1 
+
+
+```{r, echo=F}
+  
+  # summary
+  generate_kable_1(form_id = 'gPrKFKyfC3v', baseurl = 'http://sfhza.psi-mis.org/')
+  
+
+  # Detail 
+   generate_kable_2(form_id = 'gPrKFKyfC3v', baseurl = 'http://sfhza.psi-mis.org/', ignore_text = T, ignore_parent = T, ignore_real_or_simulated = T)
+
+   
+```
+
+## ZA HNQIS HIVSS Quality Assessment Tool 
+
+    
+>__Checklist id__: IEfy68UOBLF   | __Server__: http://sfhza.psi-mis.org/ | __user__: ZAdemo1 
+
+
+```{r, echo=F}
+  
+  # summary
+  generate_kable_1(form_id = 'IEfy68UOBLF', baseurl = 'http://sfhza.psi-mis.org/')
+  
+
+  # Detail 
+   generate_kable_2(form_id = 'IEfy68UOBLF', baseurl = 'http://sfhza.psi-mis.org/', ignore_text = T, ignore_parent = T, ignore_real_or_simulated = T)
+
+   
+```
+
+## ZA HNQIS VMMC Client Record Review 
+
+    
+>__Checklist id__: ApfcDIK0TZX   | __Server__: http://sfhza.psi-mis.org/ | __user__: ZAdemo1 
+
+
+```{r, echo=F}
+  
+  # summary
+  generate_kable_1(form_id = 'ApfcDIK0TZX', baseurl = 'http://sfhza.psi-mis.org/')
+  
+
+  # Detail 
+   generate_kable_2(form_id = 'ApfcDIK0TZX', baseurl = 'http://sfhza.psi-mis.org/', ignore_text = T, ignore_parent = T, ignore_real_or_simulated = T)
+
+   
+```
+
+## ZA HNQIS VMMC Communications to Clients Program 
+
+    
+>__Checklist id__: HDIc6HX8ZEb   | __Server__: http://sfhza.psi-mis.org/ | __user__: ZAdemo1 
+
+
+```{r, echo=F}
+  
+  # summary
+  generate_kable_1(form_id = 'HDIc6HX8ZEb', baseurl = 'http://sfhza.psi-mis.org/')
+  
+
+  # Detail 
+   generate_kable_2(form_id = 'HDIc6HX8ZEb', baseurl = 'http://sfhza.psi-mis.org/', ignore_text = T, ignore_parent = T, ignore_real_or_simulated = T)
+
+   
+```
+
+## ZA HNQIS VMMC Facilities, Supplies, Equipment, and  Emergency Management 
+
+    
+>__Checklist id__: LyKPFwx6DLk   | __Server__: http://sfhza.psi-mis.org/ | __user__: ZAdemo1 
+
+
+```{r, echo=F}
+  
+  # summary
+  generate_kable_1(form_id = 'LyKPFwx6DLk', baseurl = 'http://sfhza.psi-mis.org/')
+  
+
+  # Detail 
+   generate_kable_2(form_id = 'LyKPFwx6DLk', baseurl = 'http://sfhza.psi-mis.org/', ignore_text = T, ignore_parent = T, ignore_real_or_simulated = T)
+
+   
+```
+
+## ZA HNQIS VMMC SOPs, Guidelines, Policies and Job Aids and Adequacy of Staffing 
+
+    
+>__Checklist id__: OOSYzE6QWds   | __Server__: http://sfhza.psi-mis.org/ | __user__: ZAdemo1 
+
+
+```{r, echo=F}
+  
+  # summary
+  generate_kable_1(form_id = 'OOSYzE6QWds', baseurl = 'http://sfhza.psi-mis.org/')
+  
+
+  # Detail 
+   generate_kable_2(form_id = 'OOSYzE6QWds', baseurl = 'http://sfhza.psi-mis.org/', ignore_text = T, ignore_parent = T, ignore_real_or_simulated = T)
+
+   
+```
+
+## ZA HNQIS VMMC Surgical Equipment and Procedures 
+
+    
+>__Checklist id__: i2VZbwoJNkK   | __Server__: http://sfhza.psi-mis.org/ | __user__: ZAdemo1 
+
+
+```{r, echo=F}
+  
+  # summary
+  generate_kable_1(form_id = 'i2VZbwoJNkK', baseurl = 'http://sfhza.psi-mis.org/')
+  
+
+  # Detail 
+   generate_kable_2(form_id = 'i2VZbwoJNkK', baseurl = 'http://sfhza.psi-mis.org/', ignore_text = T, ignore_parent = T, ignore_real_or_simulated = T)
+
+   
+```

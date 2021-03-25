@@ -1,0 +1,182 @@
+# TZ Checklists {#TZ}
+
+
+## TZ HNQIS - Post Abortion Care 
+
+    
+>__Checklist id__: XEFrBroRgzj   | __Server__: https://staging.psi-mis.org/ | __user__: TZdemo1 
+
+
+```{r, echo=F}
+  
+  # summary
+  generate_kable_1(form_id = 'XEFrBroRgzj', baseurl = 'https://staging.psi-mis.org/')
+  
+
+  # Detail 
+   generate_kable_2(form_id = 'XEFrBroRgzj', baseurl = 'https://staging.psi-mis.org/', ignore_text = T, ignore_parent = T, ignore_real_or_simulated = T)
+
+   
+```
+
+## TZ HNQIS Cervical Cancer 
+
+    
+>__Checklist id__: fouXJvFOJ59   | __Server__: https://staging.psi-mis.org/ | __user__: TZdemo1 
+
+
+```{r, echo=F}
+  
+  # summary
+  generate_kable_1(form_id = 'fouXJvFOJ59', baseurl = 'https://staging.psi-mis.org/')
+  
+
+  # Detail 
+   generate_kable_2(form_id = 'fouXJvFOJ59', baseurl = 'https://staging.psi-mis.org/', ignore_text = T, ignore_parent = T, ignore_real_or_simulated = T)
+
+   
+```
+
+## TZ HNQIS Family Planning 
+
+    
+>__Checklist id__: cTaNilIaaTJ   | __Server__: https://staging.psi-mis.org/ | __user__: TZdemo1 
+
+
+```{r, echo=F}
+  
+  # summary
+  generate_kable_1(form_id = 'cTaNilIaaTJ', baseurl = 'https://staging.psi-mis.org/')
+  
+
+  # Detail 
+   generate_kable_2(form_id = 'cTaNilIaaTJ', baseurl = 'https://staging.psi-mis.org/', ignore_text = T, ignore_parent = T, ignore_real_or_simulated = T)
+
+   
+```
+
+## TZ HNQIS Family Planning Counseling 
+
+    
+>__Checklist id__: z44BIK8op1w   | __Server__: https://staging.psi-mis.org/ | __user__: TZdemo1 
+
+
+```{r, echo=F}
+  
+  # summary
+  generate_kable_1(form_id = 'z44BIK8op1w', baseurl = 'https://staging.psi-mis.org/')
+  
+
+  # Detail 
+   generate_kable_2(form_id = 'z44BIK8op1w', baseurl = 'https://staging.psi-mis.org/', ignore_text = T, ignore_parent = T, ignore_real_or_simulated = T)
+
+   
+```
+
+## TZ HNQIS Family Planning: Long Acting and Permanent Methods 
+
+    
+>__Checklist id__: hE7E23silMJ   | __Server__: https://staging.psi-mis.org/ | __user__: TZdemo1 
+
+
+```{r, echo=F}
+  
+  # summary
+  generate_kable_1(form_id = 'hE7E23silMJ', baseurl = 'https://staging.psi-mis.org/')
+  
+
+  # Detail 
+   generate_kable_2(form_id = 'hE7E23silMJ', baseurl = 'https://staging.psi-mis.org/', ignore_text = T, ignore_parent = T, ignore_real_or_simulated = T)
+
+   
+```
+
+## TZ HNQIS IMCI 
+
+    
+>__Checklist id__: t6yF3GiOykF   | __Server__: https://staging.psi-mis.org/ | __user__: TZdemo1 
+
+
+```{r, echo=F}
+  
+  # summary
+  generate_kable_1(form_id = 't6yF3GiOykF', baseurl = 'https://staging.psi-mis.org/')
+  
+
+  # Detail 
+   generate_kable_2(form_id = 't6yF3GiOykF', baseurl = 'https://staging.psi-mis.org/', ignore_text = T, ignore_parent = T, ignore_real_or_simulated = T)
+
+   
+```
+
+## TZ HNQIS IPC Supervision Form 
+
+    
+>__Checklist id__: FhukhATo7Dq   | __Server__: https://staging.psi-mis.org/ | __user__: TZdemo1 
+
+
+```{r, echo=F}
+  
+  # summary
+  generate_kable_1(form_id = 'FhukhATo7Dq', baseurl = 'https://staging.psi-mis.org/')
+  
+
+  # Detail 
+   generate_kable_2(form_id = 'FhukhATo7Dq', baseurl = 'https://staging.psi-mis.org/', ignore_text = T, ignore_parent = T, ignore_real_or_simulated = T)
+
+   
+```
+
+## TZ HNQIS Malaria 
+
+    
+>__Checklist id__: VlGjMyib5GX   | __Server__: https://staging.psi-mis.org/ | __user__: TZdemo1 
+
+
+```{r, echo=F}
+  
+  # summary
+  generate_kable_1(form_id = 'VlGjMyib5GX', baseurl = 'https://staging.psi-mis.org/')
+  
+
+  # Detail 
+   generate_kable_2(form_id = 'VlGjMyib5GX', baseurl = 'https://staging.psi-mis.org/', ignore_text = T, ignore_parent = T, ignore_real_or_simulated = T)
+
+   
+```
+
+## TZ HNQIS Work Environment Assessment 
+
+    
+>__Checklist id__: G58SSNpAgSb   | __Server__: https://staging.psi-mis.org/ | __user__: TZdemo1 
+
+
+```{r, echo=F}
+  
+  # summary
+  generate_kable_1(form_id = 'G58SSNpAgSb', baseurl = 'https://staging.psi-mis.org/')
+  
+
+  # Detail 
+   generate_kable_2(form_id = 'G58SSNpAgSb', baseurl = 'https://staging.psi-mis.org/', ignore_text = T, ignore_parent = T, ignore_real_or_simulated = T)
+
+   
+```
+
+## TZ HNQIS Work Environment Assessment v1 
+
+    
+>__Checklist id__: oYQA2XedUNq   | __Server__: https://staging.psi-mis.org/ | __user__: TZdemo1 
+
+
+```{r, echo=F}
+  
+  # summary
+  generate_kable_1(form_id = 'oYQA2XedUNq', baseurl = 'https://staging.psi-mis.org/')
+  
+
+  # Detail 
+   generate_kable_2(form_id = 'oYQA2XedUNq', baseurl = 'https://staging.psi-mis.org/', ignore_text = T, ignore_parent = T, ignore_real_or_simulated = T)
+
+   
+```

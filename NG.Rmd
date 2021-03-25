@@ -1,0 +1,146 @@
+# NG Checklists {#NG}
+
+
+## NG HNQIS Client Based Record Management v2 
+
+    
+>__Checklist id__: ehKlxTM0nT6   | __Server__: https://staging.psi-mis.org/ | __user__: NGdemo1 
+
+
+```{r, echo=F}
+  
+  # summary
+  generate_kable_1(form_id = 'ehKlxTM0nT6', baseurl = 'https://staging.psi-mis.org/')
+  
+
+  # Detail 
+   generate_kable_2(form_id = 'ehKlxTM0nT6', baseurl = 'https://staging.psi-mis.org/', ignore_text = T, ignore_parent = T, ignore_real_or_simulated = T)
+
+   
+```
+
+## NG HNQIS Data Quality Improvement v2 
+
+    
+>__Checklist id__: OPKYLFArvxl   | __Server__: https://staging.psi-mis.org/ | __user__: NGdemo1 
+
+
+```{r, echo=F}
+  
+  # summary
+  generate_kable_1(form_id = 'OPKYLFArvxl', baseurl = 'https://staging.psi-mis.org/')
+  
+
+  # Detail 
+   generate_kable_2(form_id = 'OPKYLFArvxl', baseurl = 'https://staging.psi-mis.org/', ignore_text = T, ignore_parent = T, ignore_real_or_simulated = T)
+
+   
+```
+
+## NG HNQIS Family Planning: Counseling v2 
+
+    
+>__Checklist id__: bmzBKZofUSJ   | __Server__: https://staging.psi-mis.org/ | __user__: NGdemo1 
+
+
+```{r, echo=F}
+  
+  # summary
+  generate_kable_1(form_id = 'bmzBKZofUSJ', baseurl = 'https://staging.psi-mis.org/')
+  
+
+  # Detail 
+   generate_kable_2(form_id = 'bmzBKZofUSJ', baseurl = 'https://staging.psi-mis.org/', ignore_text = T, ignore_parent = T, ignore_real_or_simulated = T)
+
+   
+```
+
+## NG HNQIS Family Planning: Long Acting and Permanent Methods v2 
+
+    
+>__Checklist id__: DkUpNm7OJye   | __Server__: https://staging.psi-mis.org/ | __user__: NGdemo1 
+
+
+```{r, echo=F}
+  
+  # summary
+  generate_kable_1(form_id = 'DkUpNm7OJye', baseurl = 'https://staging.psi-mis.org/')
+  
+
+  # Detail 
+   generate_kable_2(form_id = 'DkUpNm7OJye', baseurl = 'https://staging.psi-mis.org/', ignore_text = T, ignore_parent = T, ignore_real_or_simulated = T)
+
+   
+```
+
+## NG HNQIS Family Planning: Short Acting Methods v2 
+
+    
+>__Checklist id__: JKzozIYnMjp   | __Server__: https://staging.psi-mis.org/ | __user__: NGdemo1 
+
+
+```{r, echo=F}
+  
+  # summary
+  generate_kable_1(form_id = 'JKzozIYnMjp', baseurl = 'https://staging.psi-mis.org/')
+  
+
+  # Detail 
+   generate_kable_2(form_id = 'JKzozIYnMjp', baseurl = 'https://staging.psi-mis.org/', ignore_text = T, ignore_parent = T, ignore_real_or_simulated = T)
+
+   
+```
+
+## NG HNQIS Post-Abortion Care v2 
+
+    
+>__Checklist id__: r1QYcr5LNoY   | __Server__: https://staging.psi-mis.org/ | __user__: NGdemo1 
+
+
+```{r, echo=F}
+  
+  # summary
+  generate_kable_1(form_id = 'r1QYcr5LNoY', baseurl = 'https://staging.psi-mis.org/')
+  
+
+  # Detail 
+   generate_kable_2(form_id = 'r1QYcr5LNoY', baseurl = 'https://staging.psi-mis.org/', ignore_text = T, ignore_parent = T, ignore_real_or_simulated = T)
+
+   
+```
+
+## NG HNQIS Sexually Transmitted Infections v3 
+
+    
+>__Checklist id__: VK1sGTcacST   | __Server__: https://staging.psi-mis.org/ | __user__: NGdemo1 
+
+
+```{r, echo=F}
+  
+  # summary
+  generate_kable_1(form_id = 'VK1sGTcacST', baseurl = 'https://staging.psi-mis.org/')
+  
+
+  # Detail 
+   generate_kable_2(form_id = 'VK1sGTcacST', baseurl = 'https://staging.psi-mis.org/', ignore_text = T, ignore_parent = T, ignore_real_or_simulated = T)
+
+   
+```
+
+## NG HNQIS Work Environment Assessment v2 
+
+    
+>__Checklist id__: DESKxhzaTOW   | __Server__: https://staging.psi-mis.org/ | __user__: NGdemo1 
+
+
+```{r, echo=F}
+  
+  # summary
+  generate_kable_1(form_id = 'DESKxhzaTOW', baseurl = 'https://staging.psi-mis.org/')
+  
+
+  # Detail 
+   generate_kable_2(form_id = 'DESKxhzaTOW', baseurl = 'https://staging.psi-mis.org/', ignore_text = T, ignore_parent = T, ignore_real_or_simulated = T)
+
+   
+```

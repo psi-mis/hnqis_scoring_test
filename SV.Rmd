@@ -1,0 +1,128 @@
+# SV Checklists {#SV}
+
+
+## SV HNQIS Atención posterior al aborto (APA) 
+
+    
+>__Checklist id__: rtoWzmt9Wqy   | __Server__: https://staging.psi-mis.org/ | __user__: SVdemo1 
+
+
+```{r, echo=F}
+  
+  # summary
+  generate_kable_1(form_id = 'rtoWzmt9Wqy', baseurl = 'https://staging.psi-mis.org/')
+  
+
+  # Detail 
+   generate_kable_2(form_id = 'rtoWzmt9Wqy', baseurl = 'https://staging.psi-mis.org/', ignore_text = T, ignore_parent = T, ignore_real_or_simulated = T)
+
+   
+```
+
+## SV HNQIS Cáncer cervical 
+
+    
+>__Checklist id__: pkltIZaWWgc   | __Server__: https://staging.psi-mis.org/ | __user__: SVdemo1 
+
+
+```{r, echo=F}
+  
+  # summary
+  generate_kable_1(form_id = 'pkltIZaWWgc', baseurl = 'https://staging.psi-mis.org/')
+  
+
+  # Detail 
+   generate_kable_2(form_id = 'pkltIZaWWgc', baseurl = 'https://staging.psi-mis.org/', ignore_text = T, ignore_parent = T, ignore_real_or_simulated = T)
+
+   
+```
+
+## SV HNQIS Infecciones de Transmisión Sexual 
+
+    
+>__Checklist id__: WPEevrl1h2Z   | __Server__: https://staging.psi-mis.org/ | __user__: SVdemo1 
+
+
+```{r, echo=F}
+  
+  # summary
+  generate_kable_1(form_id = 'WPEevrl1h2Z', baseurl = 'https://staging.psi-mis.org/')
+  
+
+  # Detail 
+   generate_kable_2(form_id = 'WPEevrl1h2Z', baseurl = 'https://staging.psi-mis.org/', ignore_text = T, ignore_parent = T, ignore_real_or_simulated = T)
+
+   
+```
+
+## SV HNQIS Manejo de Registros basados en el cliente (CBRM) 
+
+    
+>__Checklist id__: XvNLKPRkuTT   | __Server__: https://staging.psi-mis.org/ | __user__: SVdemo1 
+
+
+```{r, echo=F}
+  
+  # summary
+  generate_kable_1(form_id = 'XvNLKPRkuTT', baseurl = 'https://staging.psi-mis.org/')
+  
+
+  # Detail 
+   generate_kable_2(form_id = 'XvNLKPRkuTT', baseurl = 'https://staging.psi-mis.org/', ignore_text = T, ignore_parent = T, ignore_real_or_simulated = T)
+
+   
+```
+
+## SV HNQIS PF: Asesoría 
+
+    
+>__Checklist id__: AEypSk1KjEV   | __Server__: https://staging.psi-mis.org/ | __user__: SVdemo1 
+
+
+```{r, echo=F}
+  
+  # summary
+  generate_kable_1(form_id = 'AEypSk1KjEV', baseurl = 'https://staging.psi-mis.org/')
+  
+
+  # Detail 
+   generate_kable_2(form_id = 'AEypSk1KjEV', baseurl = 'https://staging.psi-mis.org/', ignore_text = T, ignore_parent = T, ignore_real_or_simulated = T)
+
+   
+```
+
+## SV HNQIS PF: Métodos acción corta 
+
+    
+>__Checklist id__: z0NnAjFaK6h   | __Server__: https://staging.psi-mis.org/ | __user__: SVdemo1 
+
+
+```{r, echo=F}
+  
+  # summary
+  generate_kable_1(form_id = 'z0NnAjFaK6h', baseurl = 'https://staging.psi-mis.org/')
+  
+
+  # Detail 
+   generate_kable_2(form_id = 'z0NnAjFaK6h', baseurl = 'https://staging.psi-mis.org/', ignore_text = T, ignore_parent = T, ignore_real_or_simulated = T)
+
+   
+```
+
+## SV HNQIS PF: Métodos de acción prolongada y permanente 
+
+    
+>__Checklist id__: mR5vaQAArgA   | __Server__: https://staging.psi-mis.org/ | __user__: SVdemo1 
+
+
+```{r, echo=F}
+  
+  # summary
+  generate_kable_1(form_id = 'mR5vaQAArgA', baseurl = 'https://staging.psi-mis.org/')
+  
+
+  # Detail 
+   generate_kable_2(form_id = 'mR5vaQAArgA', baseurl = 'https://staging.psi-mis.org/', ignore_text = T, ignore_parent = T, ignore_real_or_simulated = T)
+
+   
+```

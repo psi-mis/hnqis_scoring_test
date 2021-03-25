@@ -1,0 +1,164 @@
+# ET Checklists {#ET}
+
+
+## ET HNQIS Family Planning Counseling 
+
+    
+>__Checklist id__: PcBN1NUTygk   | __Server__: https://staging.psi-mis.org/ | __user__: ETdemo1 
+
+
+```{r, echo=F}
+  
+  # summary
+  generate_kable_1(form_id = 'PcBN1NUTygk', baseurl = 'https://staging.psi-mis.org/')
+  
+
+  # Detail 
+   generate_kable_2(form_id = 'PcBN1NUTygk', baseurl = 'https://staging.psi-mis.org/', ignore_text = T, ignore_parent = T, ignore_real_or_simulated = T)
+
+   
+```
+
+## ET HNQIS Family Planning Long-Acting and Permanent Methods 
+
+    
+>__Checklist id__: JO0ffJKhD1o   | __Server__: https://staging.psi-mis.org/ | __user__: ETdemo1 
+
+
+```{r, echo=F}
+  
+  # summary
+  generate_kable_1(form_id = 'JO0ffJKhD1o', baseurl = 'https://staging.psi-mis.org/')
+  
+
+  # Detail 
+   generate_kable_2(form_id = 'JO0ffJKhD1o', baseurl = 'https://staging.psi-mis.org/', ignore_text = T, ignore_parent = T, ignore_real_or_simulated = T)
+
+   
+```
+
+## ET HNQIS Family Planning Short Acting Methods 
+
+    
+>__Checklist id__: T4RPAgBnyv5   | __Server__: https://staging.psi-mis.org/ | __user__: ETdemo1 
+
+
+```{r, echo=F}
+  
+  # summary
+  generate_kable_1(form_id = 'T4RPAgBnyv5', baseurl = 'https://staging.psi-mis.org/')
+  
+
+  # Detail 
+   generate_kable_2(form_id = 'T4RPAgBnyv5', baseurl = 'https://staging.psi-mis.org/', ignore_text = T, ignore_parent = T, ignore_real_or_simulated = T)
+
+   
+```
+
+## ET HNQIS HIV: Care and Treatment 
+
+    
+>__Checklist id__: DrKqNwEoe8g   | __Server__: https://staging.psi-mis.org/ | __user__: ETdemo1 
+
+
+```{r, echo=F}
+  
+  # summary
+  generate_kable_1(form_id = 'DrKqNwEoe8g', baseurl = 'https://staging.psi-mis.org/')
+  
+
+  # Detail 
+   generate_kable_2(form_id = 'DrKqNwEoe8g', baseurl = 'https://staging.psi-mis.org/', ignore_text = T, ignore_parent = T, ignore_real_or_simulated = T)
+
+   
+```
+
+## ET HNQIS HIV: DIC/Town Management 
+
+    
+>__Checklist id__: WtkYsqFAztw   | __Server__: https://staging.psi-mis.org/ | __user__: ETdemo1 
+
+
+```{r, echo=F}
+  
+  # summary
+  generate_kable_1(form_id = 'WtkYsqFAztw', baseurl = 'https://staging.psi-mis.org/')
+  
+
+  # Detail 
+   generate_kable_2(form_id = 'WtkYsqFAztw', baseurl = 'https://staging.psi-mis.org/', ignore_text = T, ignore_parent = T, ignore_real_or_simulated = T)
+
+   
+```
+
+## ET HNQIS HIV: Gender Based Violence 
+
+    
+>__Checklist id__: rh8F5WiCIPX   | __Server__: https://staging.psi-mis.org/ | __user__: ETdemo1 
+
+
+```{r, echo=F}
+  
+  # summary
+  generate_kable_1(form_id = 'rh8F5WiCIPX', baseurl = 'https://staging.psi-mis.org/')
+  
+
+  # Detail 
+   generate_kable_2(form_id = 'rh8F5WiCIPX', baseurl = 'https://staging.psi-mis.org/', ignore_text = T, ignore_parent = T, ignore_real_or_simulated = T)
+
+   
+```
+
+## ET HNQIS HIV: Laboratory 
+
+    
+>__Checklist id__: DXMeTBWW2YU   | __Server__: https://staging.psi-mis.org/ | __user__: ETdemo1 
+
+
+```{r, echo=F}
+  
+  # summary
+  generate_kable_1(form_id = 'DXMeTBWW2YU', baseurl = 'https://staging.psi-mis.org/')
+  
+
+  # Detail 
+   generate_kable_2(form_id = 'DXMeTBWW2YU', baseurl = 'https://staging.psi-mis.org/', ignore_text = T, ignore_parent = T, ignore_real_or_simulated = T)
+
+   
+```
+
+## ET HNQIS HIV: Testing Services 
+
+    
+>__Checklist id__: UiUuYrMT7BO   | __Server__: https://staging.psi-mis.org/ | __user__: ETdemo1 
+
+
+```{r, echo=F}
+  
+  # summary
+  generate_kable_1(form_id = 'UiUuYrMT7BO', baseurl = 'https://staging.psi-mis.org/')
+  
+
+  # Detail 
+   generate_kable_2(form_id = 'UiUuYrMT7BO', baseurl = 'https://staging.psi-mis.org/', ignore_text = T, ignore_parent = T, ignore_real_or_simulated = T)
+
+   
+```
+
+## ET HNQIS Hypertension 
+
+    
+>__Checklist id__: VSCYmZGRRNI   | __Server__: https://staging.psi-mis.org/ | __user__: ETdemo1 
+
+
+```{r, echo=F}
+  
+  # summary
+  generate_kable_1(form_id = 'VSCYmZGRRNI', baseurl = 'https://staging.psi-mis.org/')
+  
+
+  # Detail 
+   generate_kable_2(form_id = 'VSCYmZGRRNI', baseurl = 'https://staging.psi-mis.org/', ignore_text = T, ignore_parent = T, ignore_real_or_simulated = T)
+
+   
+```

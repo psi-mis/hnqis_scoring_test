@@ -1,0 +1,74 @@
+# CI Checklists {#CI}
+
+
+## CI HNQIS PF: Counseling 
+
+    
+>__Checklist id__: E1ZJtMEOKgX   | __Server__: https://staging.psi-mis.org/ | __user__: CIdemo1 
+
+
+```{r, echo=F}
+  
+  # summary
+  generate_kable_1(form_id = 'E1ZJtMEOKgX', baseurl = 'https://staging.psi-mis.org/')
+  
+
+  # Detail 
+   generate_kable_2(form_id = 'E1ZJtMEOKgX', baseurl = 'https://staging.psi-mis.org/', ignore_text = T, ignore_parent = T, ignore_real_or_simulated = T)
+
+   
+```
+
+## CI HNQIS PF: Méthodes à courte durée d' action 
+
+    
+>__Checklist id__: TACWjQw0y59   | __Server__: https://staging.psi-mis.org/ | __user__: CIdemo1 
+
+
+```{r, echo=F}
+  
+  # summary
+  generate_kable_1(form_id = 'TACWjQw0y59', baseurl = 'https://staging.psi-mis.org/')
+  
+
+  # Detail 
+   generate_kable_2(form_id = 'TACWjQw0y59', baseurl = 'https://staging.psi-mis.org/', ignore_text = T, ignore_parent = T, ignore_real_or_simulated = T)
+
+   
+```
+
+## CI HNQIS PF: Méthodes à longue durée d' action 
+
+    
+>__Checklist id__: vyaNMUOE1rE   | __Server__: https://staging.psi-mis.org/ | __user__: CIdemo1 
+
+
+```{r, echo=F}
+  
+  # summary
+  generate_kable_1(form_id = 'vyaNMUOE1rE', baseurl = 'https://staging.psi-mis.org/')
+  
+
+  # Detail 
+   generate_kable_2(form_id = 'vyaNMUOE1rE', baseurl = 'https://staging.psi-mis.org/', ignore_text = T, ignore_parent = T, ignore_real_or_simulated = T)
+
+   
+```
+
+## CI HNQIS Soins Après Avortement (SAA) 
+
+    
+>__Checklist id__: NzRTmDqBNv8   | __Server__: https://staging.psi-mis.org/ | __user__: CIdemo1 
+
+
+```{r, echo=F}
+  
+  # summary
+  generate_kable_1(form_id = 'NzRTmDqBNv8', baseurl = 'https://staging.psi-mis.org/')
+  
+
+  # Detail 
+   generate_kable_2(form_id = 'NzRTmDqBNv8', baseurl = 'https://staging.psi-mis.org/', ignore_text = T, ignore_parent = T, ignore_real_or_simulated = T)
+
+   
+```
