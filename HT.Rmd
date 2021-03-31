@@ -7,16 +7,21 @@
 >__Checklist id__: PvGD6Cp33Yz   | __Server__: https://staging.psi-mis.org/ | __user__: HTdemo1 
 
 
+    
+- Does this checklist have any __mandatory__ question? `r scoring_forms[[60]] %>% gen_test_for_questions(., is_mandatory = T)`
+    
+- Does this checklist have any __non mandatory__ question? `r scoring_forms[[60]] %>% gen_test_for_questions(., is_mandatory = F)`
+
 ```{r, echo=F}
-  
+
   # summary
   generate_kable_1(form_id = 'PvGD6Cp33Yz', baseurl = 'https://staging.psi-mis.org/')
   
 
-  # Detail 
+  # Detail
    generate_kable_2(form_id = 'PvGD6Cp33Yz', baseurl = 'https://staging.psi-mis.org/', ignore_text = T, ignore_parent = T, ignore_real_or_simulated = T)
 
-   
+
 ```
 
 ## HT HNQIS PF Counseling 
@@ -25,16 +30,21 @@
 >__Checklist id__: bIDbxgUYh4O   | __Server__: https://staging.psi-mis.org/ | __user__: HTdemo1 
 
 
+    
+- Does this checklist have any __mandatory__ question? `r scoring_forms[[61]] %>% gen_test_for_questions(., is_mandatory = T)`
+    
+- Does this checklist have any __non mandatory__ question? `r scoring_forms[[61]] %>% gen_test_for_questions(., is_mandatory = F)`
+
 ```{r, echo=F}
-  
+
   # summary
   generate_kable_1(form_id = 'bIDbxgUYh4O', baseurl = 'https://staging.psi-mis.org/')
   
 
-  # Detail 
+  # Detail
    generate_kable_2(form_id = 'bIDbxgUYh4O', baseurl = 'https://staging.psi-mis.org/', ignore_text = T, ignore_parent = T, ignore_real_or_simulated = T)
 
-   
+
 ```
 
 ## HT HNQIS PF Méthodes à courte durée d' action 
@@ -43,16 +53,21 @@
 >__Checklist id__: v8dBn50e1OO   | __Server__: https://staging.psi-mis.org/ | __user__: HTdemo1 
 
 
+    
+- Does this checklist have any __mandatory__ question? `r scoring_forms[[62]] %>% gen_test_for_questions(., is_mandatory = T)`
+    
+- Does this checklist have any __non mandatory__ question? `r scoring_forms[[62]] %>% gen_test_for_questions(., is_mandatory = F)`
+
 ```{r, echo=F}
-  
+
   # summary
   generate_kable_1(form_id = 'v8dBn50e1OO', baseurl = 'https://staging.psi-mis.org/')
   
 
-  # Detail 
+  # Detail
    generate_kable_2(form_id = 'v8dBn50e1OO', baseurl = 'https://staging.psi-mis.org/', ignore_text = T, ignore_parent = T, ignore_real_or_simulated = T)
 
-   
+
 ```
 
 ## HT HNQIS PF Méthodes à longue durée d' action 
@@ -61,16 +76,21 @@
 >__Checklist id__: y6IwDPNynvf   | __Server__: https://staging.psi-mis.org/ | __user__: HTdemo1 
 
 
+    
+- Does this checklist have any __mandatory__ question? `r scoring_forms[[63]] %>% gen_test_for_questions(., is_mandatory = T)`
+    
+- Does this checklist have any __non mandatory__ question? `r scoring_forms[[63]] %>% gen_test_for_questions(., is_mandatory = F)`
+
 ```{r, echo=F}
-  
+
   # summary
   generate_kable_1(form_id = 'y6IwDPNynvf', baseurl = 'https://staging.psi-mis.org/')
   
 
-  # Detail 
+  # Detail
    generate_kable_2(form_id = 'y6IwDPNynvf', baseurl = 'https://staging.psi-mis.org/', ignore_text = T, ignore_parent = T, ignore_real_or_simulated = T)
 
-   
+
 ```
 
 ## HT HNQIS Supply chain - CDAI 
@@ -79,16 +99,21 @@
 >__Checklist id__: Y7goA40psn6   | __Server__: https://staging.psi-mis.org/ | __user__: HTdemo1 
 
 
+    
+- Does this checklist have any __mandatory__ question? `r scoring_forms[[64]] %>% gen_test_for_questions(., is_mandatory = T)`
+    
+- Does this checklist have any __non mandatory__ question? `r scoring_forms[[64]] %>% gen_test_for_questions(., is_mandatory = F)`
+
 ```{r, echo=F}
-  
+
   # summary
   generate_kable_1(form_id = 'Y7goA40psn6', baseurl = 'https://staging.psi-mis.org/')
   
 
-  # Detail 
+  # Detail
    generate_kable_2(form_id = 'Y7goA40psn6', baseurl = 'https://staging.psi-mis.org/', ignore_text = T, ignore_parent = T, ignore_real_or_simulated = T)
 
-   
+
 ```
 
 ## HT HNQIS Supply chain - Laboratoire 
@@ -97,16 +122,21 @@
 >__Checklist id__: wVaGwrPqwEd   | __Server__: https://staging.psi-mis.org/ | __user__: HTdemo1 
 
 
+    
+- Does this checklist have any __mandatory__ question? `r scoring_forms[[65]] %>% gen_test_for_questions(., is_mandatory = T)`
+    
+- Does this checklist have any __non mandatory__ question? `r scoring_forms[[65]] %>% gen_test_for_questions(., is_mandatory = F)`
+
 ```{r, echo=F}
-  
+
   # summary
   generate_kable_1(form_id = 'wVaGwrPqwEd', baseurl = 'https://staging.psi-mis.org/')
   
 
-  # Detail 
+  # Detail
    generate_kable_2(form_id = 'wVaGwrPqwEd', baseurl = 'https://staging.psi-mis.org/', ignore_text = T, ignore_parent = T, ignore_real_or_simulated = T)
 
-   
+
 ```
 
 ## HT HNQIS Supply chain - Pharmacie 
@@ -115,16 +145,21 @@
 >__Checklist id__: MlE8KHjjSHG   | __Server__: https://staging.psi-mis.org/ | __user__: HTdemo1 
 
 
+    
+- Does this checklist have any __mandatory__ question? `r scoring_forms[[66]] %>% gen_test_for_questions(., is_mandatory = T)`
+    
+- Does this checklist have any __non mandatory__ question? `r scoring_forms[[66]] %>% gen_test_for_questions(., is_mandatory = F)`
+
 ```{r, echo=F}
-  
+
   # summary
   generate_kable_1(form_id = 'MlE8KHjjSHG', baseurl = 'https://staging.psi-mis.org/')
   
 
-  # Detail 
+  # Detail
    generate_kable_2(form_id = 'MlE8KHjjSHG', baseurl = 'https://staging.psi-mis.org/', ignore_text = T, ignore_parent = T, ignore_real_or_simulated = T)
 
-   
+
 ```
 
 ## HT HNQIS Tuberculosis 
@@ -133,16 +168,21 @@
 >__Checklist id__: XHcXCYyTktp   | __Server__: https://staging.psi-mis.org/ | __user__: HTdemo1 
 
 
+    
+- Does this checklist have any __mandatory__ question? `r scoring_forms[[67]] %>% gen_test_for_questions(., is_mandatory = T)`
+    
+- Does this checklist have any __non mandatory__ question? `r scoring_forms[[67]] %>% gen_test_for_questions(., is_mandatory = F)`
+
 ```{r, echo=F}
-  
+
   # summary
   generate_kable_1(form_id = 'XHcXCYyTktp', baseurl = 'https://staging.psi-mis.org/')
   
 
-  # Detail 
+  # Detail
    generate_kable_2(form_id = 'XHcXCYyTktp', baseurl = 'https://staging.psi-mis.org/', ignore_text = T, ignore_parent = T, ignore_real_or_simulated = T)
 
-   
+
 ```
 
 ## HT HNQIS VIH - ARV Adulte 
@@ -151,16 +191,21 @@
 >__Checklist id__: PQwQsiKlT0K   | __Server__: https://staging.psi-mis.org/ | __user__: HTdemo1 
 
 
+    
+- Does this checklist have any __mandatory__ question? `r scoring_forms[[68]] %>% gen_test_for_questions(., is_mandatory = T)`
+    
+- Does this checklist have any __non mandatory__ question? `r scoring_forms[[68]] %>% gen_test_for_questions(., is_mandatory = F)`
+
 ```{r, echo=F}
-  
+
   # summary
   generate_kable_1(form_id = 'PQwQsiKlT0K', baseurl = 'https://staging.psi-mis.org/')
   
 
-  # Detail 
+  # Detail
    generate_kable_2(form_id = 'PQwQsiKlT0K', baseurl = 'https://staging.psi-mis.org/', ignore_text = T, ignore_parent = T, ignore_real_or_simulated = T)
 
-   
+
 ```
 
 ## HT HNQIS VIH - ARV Enfant 
@@ -169,16 +214,21 @@
 >__Checklist id__: yYyr4TMcsBk   | __Server__: https://staging.psi-mis.org/ | __user__: HTdemo1 
 
 
+    
+- Does this checklist have any __mandatory__ question? `r scoring_forms[[69]] %>% gen_test_for_questions(., is_mandatory = T)`
+    
+- Does this checklist have any __non mandatory__ question? `r scoring_forms[[69]] %>% gen_test_for_questions(., is_mandatory = F)`
+
 ```{r, echo=F}
-  
+
   # summary
   generate_kable_1(form_id = 'yYyr4TMcsBk', baseurl = 'https://staging.psi-mis.org/')
   
 
-  # Detail 
+  # Detail
    generate_kable_2(form_id = 'yYyr4TMcsBk', baseurl = 'https://staging.psi-mis.org/', ignore_text = T, ignore_parent = T, ignore_real_or_simulated = T)
 
-   
+
 ```
 
 ## HT HNQIS VIH - Prévention 
@@ -187,14 +237,19 @@
 >__Checklist id__: kudV5Ncmysx   | __Server__: https://staging.psi-mis.org/ | __user__: HTdemo1 
 
 
+    
+- Does this checklist have any __mandatory__ question? `r scoring_forms[[70]] %>% gen_test_for_questions(., is_mandatory = T)`
+    
+- Does this checklist have any __non mandatory__ question? `r scoring_forms[[70]] %>% gen_test_for_questions(., is_mandatory = F)`
+
 ```{r, echo=F}
-  
+
   # summary
   generate_kable_1(form_id = 'kudV5Ncmysx', baseurl = 'https://staging.psi-mis.org/')
   
 
-  # Detail 
+  # Detail
    generate_kable_2(form_id = 'kudV5Ncmysx', baseurl = 'https://staging.psi-mis.org/', ignore_text = T, ignore_parent = T, ignore_real_or_simulated = T)
 
-   
+
 ```

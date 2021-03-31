@@ -7,16 +7,21 @@
 >__Checklist id__: hLfZOGLJZ8n   | __Server__: https://staging.psi-mis.org/ | __user__: NEdemo1 
 
 
+    
+- Does this checklist have any __mandatory__ question? `r scoring_forms[[157]] %>% gen_test_for_questions(., is_mandatory = T)`
+    
+- Does this checklist have any __non mandatory__ question? `r scoring_forms[[157]] %>% gen_test_for_questions(., is_mandatory = F)`
+
 ```{r, echo=F}
-  
+
   # summary
   generate_kable_1(form_id = 'hLfZOGLJZ8n', baseurl = 'https://staging.psi-mis.org/')
   
 
-  # Detail 
+  # Detail
    generate_kable_2(form_id = 'hLfZOGLJZ8n', baseurl = 'https://staging.psi-mis.org/', ignore_text = T, ignore_parent = T, ignore_real_or_simulated = T)
 
-   
+
 ```
 
 ## NE HNQIS Client Based Record Management (CBRM) 
@@ -25,16 +30,21 @@
 >__Checklist id__: iOk4zAwavwi   | __Server__: https://staging.psi-mis.org/ | __user__: NEdemo1 
 
 
+    
+- Does this checklist have any __mandatory__ question? `r scoring_forms[[158]] %>% gen_test_for_questions(., is_mandatory = T)`
+    
+- Does this checklist have any __non mandatory__ question? `r scoring_forms[[158]] %>% gen_test_for_questions(., is_mandatory = F)`
+
 ```{r, echo=F}
-  
+
   # summary
   generate_kable_1(form_id = 'iOk4zAwavwi', baseurl = 'https://staging.psi-mis.org/')
   
 
-  # Detail 
+  # Detail
    generate_kable_2(form_id = 'iOk4zAwavwi', baseurl = 'https://staging.psi-mis.org/', ignore_text = T, ignore_parent = T, ignore_real_or_simulated = T)
 
-   
+
 ```
 
 ## NE HNQIS PF Counseling 
@@ -43,16 +53,21 @@
 >__Checklist id__: FuSpwxENtqy   | __Server__: https://staging.psi-mis.org/ | __user__: NEdemo1 
 
 
+    
+- Does this checklist have any __mandatory__ question? `r scoring_forms[[159]] %>% gen_test_for_questions(., is_mandatory = T)`
+    
+- Does this checklist have any __non mandatory__ question? `r scoring_forms[[159]] %>% gen_test_for_questions(., is_mandatory = F)`
+
 ```{r, echo=F}
-  
+
   # summary
   generate_kable_1(form_id = 'FuSpwxENtqy', baseurl = 'https://staging.psi-mis.org/')
   
 
-  # Detail 
+  # Detail
    generate_kable_2(form_id = 'FuSpwxENtqy', baseurl = 'https://staging.psi-mis.org/', ignore_text = T, ignore_parent = T, ignore_real_or_simulated = T)
 
-   
+
 ```
 
 ## NE HNQIS PF Méthodes à courte durée d' action 
@@ -61,16 +76,21 @@
 >__Checklist id__: gbEmZsJnUS3   | __Server__: https://staging.psi-mis.org/ | __user__: NEdemo1 
 
 
+    
+- Does this checklist have any __mandatory__ question? `r scoring_forms[[160]] %>% gen_test_for_questions(., is_mandatory = T)`
+    
+- Does this checklist have any __non mandatory__ question? `r scoring_forms[[160]] %>% gen_test_for_questions(., is_mandatory = F)`
+
 ```{r, echo=F}
-  
+
   # summary
   generate_kable_1(form_id = 'gbEmZsJnUS3', baseurl = 'https://staging.psi-mis.org/')
   
 
-  # Detail 
+  # Detail
    generate_kable_2(form_id = 'gbEmZsJnUS3', baseurl = 'https://staging.psi-mis.org/', ignore_text = T, ignore_parent = T, ignore_real_or_simulated = T)
 
-   
+
 ```
 
 ## NE HNQIS PF Méthodes à longue durée d' action 
@@ -79,16 +99,21 @@
 >__Checklist id__: pdf238QIIFa   | __Server__: https://staging.psi-mis.org/ | __user__: NEdemo1 
 
 
+    
+- Does this checklist have any __mandatory__ question? `r scoring_forms[[161]] %>% gen_test_for_questions(., is_mandatory = T)`
+    
+- Does this checklist have any __non mandatory__ question? `r scoring_forms[[161]] %>% gen_test_for_questions(., is_mandatory = F)`
+
 ```{r, echo=F}
-  
+
   # summary
   generate_kable_1(form_id = 'pdf238QIIFa', baseurl = 'https://staging.psi-mis.org/')
   
 
-  # Detail 
+  # Detail
    generate_kable_2(form_id = 'pdf238QIIFa', baseurl = 'https://staging.psi-mis.org/', ignore_text = T, ignore_parent = T, ignore_real_or_simulated = T)
 
-   
+
 ```
 
 ## NE HNQIS Soins Après Avortement (SAA) 
@@ -97,16 +122,21 @@
 >__Checklist id__: XdApD6VCjbQ   | __Server__: https://staging.psi-mis.org/ | __user__: NEdemo1 
 
 
+    
+- Does this checklist have any __mandatory__ question? `r scoring_forms[[162]] %>% gen_test_for_questions(., is_mandatory = T)`
+    
+- Does this checklist have any __non mandatory__ question? `r scoring_forms[[162]] %>% gen_test_for_questions(., is_mandatory = F)`
+
 ```{r, echo=F}
-  
+
   # summary
   generate_kable_1(form_id = 'XdApD6VCjbQ', baseurl = 'https://staging.psi-mis.org/')
   
 
-  # Detail 
+  # Detail
    generate_kable_2(form_id = 'XdApD6VCjbQ', baseurl = 'https://staging.psi-mis.org/', ignore_text = T, ignore_parent = T, ignore_real_or_simulated = T)
 
-   
+
 ```
 
 ## NE HNQIS Évaluation de l'environnement de travail 
@@ -115,14 +145,19 @@
 >__Checklist id__: tgxfuOfntDr   | __Server__: https://staging.psi-mis.org/ | __user__: NEdemo1 
 
 
+    
+- Does this checklist have any __mandatory__ question? `r scoring_forms[[163]] %>% gen_test_for_questions(., is_mandatory = T)`
+    
+- Does this checklist have any __non mandatory__ question? `r scoring_forms[[163]] %>% gen_test_for_questions(., is_mandatory = F)`
+
 ```{r, echo=F}
-  
+
   # summary
   generate_kable_1(form_id = 'tgxfuOfntDr', baseurl = 'https://staging.psi-mis.org/')
   
 
-  # Detail 
+  # Detail
    generate_kable_2(form_id = 'tgxfuOfntDr', baseurl = 'https://staging.psi-mis.org/', ignore_text = T, ignore_parent = T, ignore_real_or_simulated = T)
 
-   
+
 ```

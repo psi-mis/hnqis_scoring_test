@@ -6,3 +6,4 @@ language:
 rmd_files: ["index.Rmd","AO.Rmd","BI.Rmd", "BJ.Rmd", "CI.Rmd", "CM.Rmd", "ET.Rmd", "GT.Rmd", "HT.Rmd","JL.Rmd", "KE.Rmd", "KH.Rmd", "LA.Rmd", "MG.Rmd",
 "ML.Rmd", "MM.Rmd", "MW.Rmd", "MZ.Rmd", "NE.Rmd", "NG.Rmd", "NI.Rmd", "NP.Rmd", "PL.Rmd", "SM.Rmd", "SV.Rmd", "TZ.Rmd", "UG.Rmd",
 "VN.Rmd", "ZA.Rmd", "ZW.Rmd", "32-references.Rmd"]
+output_dir: "docs"

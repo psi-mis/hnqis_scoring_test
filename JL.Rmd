@@ -7,16 +7,21 @@
 >__Checklist id__: NR5jpfT14pQ   | __Server__: https://sm-dev.hnqis.org/ | __user__: JLdemo1 
 
 
+    
+- Does this checklist have any __mandatory__ question? `r scoring_forms[[71]] %>% gen_test_for_questions(., is_mandatory = T)`
+    
+- Does this checklist have any __non mandatory__ question? `r scoring_forms[[71]] %>% gen_test_for_questions(., is_mandatory = F)`
+
 ```{r, echo=F}
-  
+
   # summary
   generate_kable_1(form_id = 'NR5jpfT14pQ', baseurl = 'https://sm-dev.hnqis.org/')
   
 
-  # Detail 
+  # Detail
    generate_kable_2(form_id = 'NR5jpfT14pQ', baseurl = 'https://sm-dev.hnqis.org/', ignore_text = T, ignore_parent = T, ignore_real_or_simulated = T)
 
-   
+
 ```
 
 ## JL HNQIS Birth Spacing: Short Acting Methods 
@@ -25,16 +30,21 @@
 >__Checklist id__: aLWu7ffN9D3   | __Server__: https://sm-dev.hnqis.org/ | __user__: JLdemo1 
 
 
+    
+- Does this checklist have any __mandatory__ question? `r scoring_forms[[72]] %>% gen_test_for_questions(., is_mandatory = T)`
+    
+- Does this checklist have any __non mandatory__ question? `r scoring_forms[[72]] %>% gen_test_for_questions(., is_mandatory = F)`
+
 ```{r, echo=F}
-  
+
   # summary
   generate_kable_1(form_id = 'aLWu7ffN9D3', baseurl = 'https://sm-dev.hnqis.org/')
   
 
-  # Detail 
+  # Detail
    generate_kable_2(form_id = 'aLWu7ffN9D3', baseurl = 'https://sm-dev.hnqis.org/', ignore_text = T, ignore_parent = T, ignore_real_or_simulated = T)
 
-   
+
 ```
 
 ## JL HNQIS Cervical Cancer: VIA Screening and Cryotherapy 
@@ -43,16 +53,21 @@
 >__Checklist id__: iOWnPrk6ash   | __Server__: https://sm-dev.hnqis.org/ | __user__: JLdemo1 
 
 
+    
+- Does this checklist have any __mandatory__ question? `r scoring_forms[[73]] %>% gen_test_for_questions(., is_mandatory = T)`
+    
+- Does this checklist have any __non mandatory__ question? `r scoring_forms[[73]] %>% gen_test_for_questions(., is_mandatory = F)`
+
 ```{r, echo=F}
-  
+
   # summary
   generate_kable_1(form_id = 'iOWnPrk6ash', baseurl = 'https://sm-dev.hnqis.org/')
   
 
-  # Detail 
+  # Detail
    generate_kable_2(form_id = 'iOWnPrk6ash', baseurl = 'https://sm-dev.hnqis.org/', ignore_text = T, ignore_parent = T, ignore_real_or_simulated = T)
 
-   
+
 ```
 
 ## JL HNQIS Health Center - Community Participation & Health Education 
@@ -61,16 +76,21 @@
 >__Checklist id__: SyJ5I8tdrai   | __Server__: https://sm-dev.hnqis.org/ | __user__: JLdemo1 
 
 
+    
+- Does this checklist have any __mandatory__ question? `r scoring_forms[[74]] %>% gen_test_for_questions(., is_mandatory = T)`
+    
+- Does this checklist have any __non mandatory__ question? `r scoring_forms[[74]] %>% gen_test_for_questions(., is_mandatory = F)`
+
 ```{r, echo=F}
-  
+
   # summary
   generate_kable_1(form_id = 'SyJ5I8tdrai', baseurl = 'https://sm-dev.hnqis.org/')
   
 
-  # Detail 
+  # Detail
    generate_kable_2(form_id = 'SyJ5I8tdrai', baseurl = 'https://sm-dev.hnqis.org/', ignore_text = T, ignore_parent = T, ignore_real_or_simulated = T)
 
-   
+
 ```
 
 ## JL HNQIS Health Center - Personnel and Infrastructure 
@@ -79,16 +99,21 @@
 >__Checklist id__: wJsY5ofADiA   | __Server__: https://sm-dev.hnqis.org/ | __user__: JLdemo1 
 
 
+    
+- Does this checklist have any __mandatory__ question? `r scoring_forms[[75]] %>% gen_test_for_questions(., is_mandatory = T)`
+    
+- Does this checklist have any __non mandatory__ question? `r scoring_forms[[75]] %>% gen_test_for_questions(., is_mandatory = F)`
+
 ```{r, echo=F}
-  
+
   # summary
   generate_kable_1(form_id = 'wJsY5ofADiA', baseurl = 'https://sm-dev.hnqis.org/')
   
 
-  # Detail 
+  # Detail
    generate_kable_2(form_id = 'wJsY5ofADiA', baseurl = 'https://sm-dev.hnqis.org/', ignore_text = T, ignore_parent = T, ignore_real_or_simulated = T)
 
-   
+
 ```
 
 ## JL HNQIS Health Center -  Programs and Health System Support 
@@ -97,16 +122,21 @@
 >__Checklist id__: cv0S9XGfu84   | __Server__: https://sm-dev.hnqis.org/ | __user__: JLdemo1 
 
 
+    
+- Does this checklist have any __mandatory__ question? `r scoring_forms[[76]] %>% gen_test_for_questions(., is_mandatory = T)`
+    
+- Does this checklist have any __non mandatory__ question? `r scoring_forms[[76]] %>% gen_test_for_questions(., is_mandatory = F)`
+
 ```{r, echo=F}
-  
+
   # summary
   generate_kable_1(form_id = 'cv0S9XGfu84', baseurl = 'https://sm-dev.hnqis.org/')
   
 
-  # Detail 
+  # Detail
    generate_kable_2(form_id = 'cv0S9XGfu84', baseurl = 'https://sm-dev.hnqis.org/', ignore_text = T, ignore_parent = T, ignore_real_or_simulated = T)
 
-   
+
 ```
 
 ## JL HNQIS Hypertension 
@@ -115,16 +145,21 @@
 >__Checklist id__: w0NRKmKNefC   | __Server__: https://sm-dev.hnqis.org/ | __user__: JLdemo1 
 
 
+    
+- Does this checklist have any __mandatory__ question? `r scoring_forms[[77]] %>% gen_test_for_questions(., is_mandatory = T)`
+    
+- Does this checklist have any __non mandatory__ question? `r scoring_forms[[77]] %>% gen_test_for_questions(., is_mandatory = F)`
+
 ```{r, echo=F}
-  
+
   # summary
   generate_kable_1(form_id = 'w0NRKmKNefC', baseurl = 'https://sm-dev.hnqis.org/')
   
 
-  # Detail 
+  # Detail
    generate_kable_2(form_id = 'w0NRKmKNefC', baseurl = 'https://sm-dev.hnqis.org/', ignore_text = T, ignore_parent = T, ignore_real_or_simulated = T)
 
-   
+
 ```
 
 ## JL HNQIS IMCI 
@@ -133,16 +168,21 @@
 >__Checklist id__: CfhSkwue0ZN   | __Server__: https://sm-dev.hnqis.org/ | __user__: JLdemo1 
 
 
+    
+- Does this checklist have any __mandatory__ question? `r scoring_forms[[78]] %>% gen_test_for_questions(., is_mandatory = T)`
+    
+- Does this checklist have any __non mandatory__ question? `r scoring_forms[[78]] %>% gen_test_for_questions(., is_mandatory = F)`
+
 ```{r, echo=F}
-  
+
   # summary
   generate_kable_1(form_id = 'CfhSkwue0ZN', baseurl = 'https://sm-dev.hnqis.org/')
   
 
-  # Detail 
+  # Detail
    generate_kable_2(form_id = 'CfhSkwue0ZN', baseurl = 'https://sm-dev.hnqis.org/', ignore_text = T, ignore_parent = T, ignore_real_or_simulated = T)
 
-   
+
 ```
 
 ## JL HNQIS LARC and PAC Facility checklist 
@@ -151,16 +191,21 @@
 >__Checklist id__: uJBZWrKARed   | __Server__: https://sm-dev.hnqis.org/ | __user__: JLdemo1 
 
 
+    
+- Does this checklist have any __mandatory__ question? `r scoring_forms[[79]] %>% gen_test_for_questions(., is_mandatory = T)`
+    
+- Does this checklist have any __non mandatory__ question? `r scoring_forms[[79]] %>% gen_test_for_questions(., is_mandatory = F)`
+
 ```{r, echo=F}
-  
+
   # summary
   generate_kable_1(form_id = 'uJBZWrKARed', baseurl = 'https://sm-dev.hnqis.org/')
   
 
-  # Detail 
+  # Detail
    generate_kable_2(form_id = 'uJBZWrKARed', baseurl = 'https://sm-dev.hnqis.org/', ignore_text = T, ignore_parent = T, ignore_real_or_simulated = T)
 
-   
+
 ```
 
 ## JL HNQIS Malaria 
@@ -169,16 +214,21 @@
 >__Checklist id__: JrSkR9DMnUe   | __Server__: https://sm-dev.hnqis.org/ | __user__: JLdemo1 
 
 
+    
+- Does this checklist have any __mandatory__ question? `r scoring_forms[[80]] %>% gen_test_for_questions(., is_mandatory = T)`
+    
+- Does this checklist have any __non mandatory__ question? `r scoring_forms[[80]] %>% gen_test_for_questions(., is_mandatory = F)`
+
 ```{r, echo=F}
-  
+
   # summary
   generate_kable_1(form_id = 'JrSkR9DMnUe', baseurl = 'https://sm-dev.hnqis.org/')
   
 
-  # Detail 
+  # Detail
    generate_kable_2(form_id = 'JrSkR9DMnUe', baseurl = 'https://sm-dev.hnqis.org/', ignore_text = T, ignore_parent = T, ignore_real_or_simulated = T)
 
-   
+
 ```
 
 ## JL HNQIS Maternal and Newborn Health 
@@ -187,16 +237,21 @@
 >__Checklist id__: pRfOYvWhdsm   | __Server__: https://sm-dev.hnqis.org/ | __user__: JLdemo1 
 
 
+    
+- Does this checklist have any __mandatory__ question? `r scoring_forms[[81]] %>% gen_test_for_questions(., is_mandatory = T)`
+    
+- Does this checklist have any __non mandatory__ question? `r scoring_forms[[81]] %>% gen_test_for_questions(., is_mandatory = F)`
+
 ```{r, echo=F}
-  
+
   # summary
   generate_kable_1(form_id = 'pRfOYvWhdsm', baseurl = 'https://sm-dev.hnqis.org/')
   
 
-  # Detail 
+  # Detail
    generate_kable_2(form_id = 'pRfOYvWhdsm', baseurl = 'https://sm-dev.hnqis.org/', ignore_text = T, ignore_parent = T, ignore_real_or_simulated = T)
 
-   
+
 ```
 
 ## JL HNQIS Post Abortion Care 
@@ -205,16 +260,21 @@
 >__Checklist id__: uSUB6tOflGi   | __Server__: https://sm-dev.hnqis.org/ | __user__: JLdemo1 
 
 
+    
+- Does this checklist have any __mandatory__ question? `r scoring_forms[[82]] %>% gen_test_for_questions(., is_mandatory = T)`
+    
+- Does this checklist have any __non mandatory__ question? `r scoring_forms[[82]] %>% gen_test_for_questions(., is_mandatory = F)`
+
 ```{r, echo=F}
-  
+
   # summary
   generate_kable_1(form_id = 'uSUB6tOflGi', baseurl = 'https://sm-dev.hnqis.org/')
   
 
-  # Detail 
+  # Detail
    generate_kable_2(form_id = 'uSUB6tOflGi', baseurl = 'https://sm-dev.hnqis.org/', ignore_text = T, ignore_parent = T, ignore_real_or_simulated = T)
 
-   
+
 ```
 
 ## JL HNQIS Regional Hospital - Community Participation & Health Education 
@@ -223,16 +283,21 @@
 >__Checklist id__: D8TwwcgS20I   | __Server__: https://sm-dev.hnqis.org/ | __user__: JLdemo1 
 
 
+    
+- Does this checklist have any __mandatory__ question? `r scoring_forms[[83]] %>% gen_test_for_questions(., is_mandatory = T)`
+    
+- Does this checklist have any __non mandatory__ question? `r scoring_forms[[83]] %>% gen_test_for_questions(., is_mandatory = F)`
+
 ```{r, echo=F}
-  
+
   # summary
   generate_kable_1(form_id = 'D8TwwcgS20I', baseurl = 'https://sm-dev.hnqis.org/')
   
 
-  # Detail 
+  # Detail
    generate_kable_2(form_id = 'D8TwwcgS20I', baseurl = 'https://sm-dev.hnqis.org/', ignore_text = T, ignore_parent = T, ignore_real_or_simulated = T)
 
-   
+
 ```
 
 ## JL HNQIS Regional Hospital -  Personnel and Infrastructure 
@@ -241,16 +306,21 @@
 >__Checklist id__: JlNfoVcPv2y   | __Server__: https://sm-dev.hnqis.org/ | __user__: JLdemo1 
 
 
+    
+- Does this checklist have any __mandatory__ question? `r scoring_forms[[84]] %>% gen_test_for_questions(., is_mandatory = T)`
+    
+- Does this checklist have any __non mandatory__ question? `r scoring_forms[[84]] %>% gen_test_for_questions(., is_mandatory = F)`
+
 ```{r, echo=F}
-  
+
   # summary
   generate_kable_1(form_id = 'JlNfoVcPv2y', baseurl = 'https://sm-dev.hnqis.org/')
   
 
-  # Detail 
+  # Detail
    generate_kable_2(form_id = 'JlNfoVcPv2y', baseurl = 'https://sm-dev.hnqis.org/', ignore_text = T, ignore_parent = T, ignore_real_or_simulated = T)
 
-   
+
 ```
 
 ## JL HNQIS Regional Hospital - Programs and Health System Support 
@@ -259,16 +329,21 @@
 >__Checklist id__: Pfs7m4vI67d   | __Server__: https://sm-dev.hnqis.org/ | __user__: JLdemo1 
 
 
+    
+- Does this checklist have any __mandatory__ question? `r scoring_forms[[85]] %>% gen_test_for_questions(., is_mandatory = T)`
+    
+- Does this checklist have any __non mandatory__ question? `r scoring_forms[[85]] %>% gen_test_for_questions(., is_mandatory = F)`
+
 ```{r, echo=F}
-  
+
   # summary
   generate_kable_1(form_id = 'Pfs7m4vI67d', baseurl = 'https://sm-dev.hnqis.org/')
   
 
-  # Detail 
+  # Detail
    generate_kable_2(form_id = 'Pfs7m4vI67d', baseurl = 'https://sm-dev.hnqis.org/', ignore_text = T, ignore_parent = T, ignore_real_or_simulated = T)
 
-   
+
 ```
 
 ## JL HNQIS Sexually Transmitted Infections 
@@ -277,14 +352,19 @@
 >__Checklist id__: Hp7pUz7skOy   | __Server__: https://sm-dev.hnqis.org/ | __user__: JLdemo1 
 
 
+    
+- Does this checklist have any __mandatory__ question? `r scoring_forms[[86]] %>% gen_test_for_questions(., is_mandatory = T)`
+    
+- Does this checklist have any __non mandatory__ question? `r scoring_forms[[86]] %>% gen_test_for_questions(., is_mandatory = F)`
+
 ```{r, echo=F}
-  
+
   # summary
   generate_kable_1(form_id = 'Hp7pUz7skOy', baseurl = 'https://sm-dev.hnqis.org/')
   
 
-  # Detail 
+  # Detail
    generate_kable_2(form_id = 'Hp7pUz7skOy', baseurl = 'https://sm-dev.hnqis.org/', ignore_text = T, ignore_parent = T, ignore_real_or_simulated = T)
 
-   
+
 ```

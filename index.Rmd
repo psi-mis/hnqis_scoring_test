@@ -57,7 +57,7 @@ knitr::include_graphics("./images/test3.png")
 ```
 
 
-```{r setup, include=FALSE}
+```{r setup, chunk-main, include=FALSE}
 knitr::opts_chunk$set(echo = TRUE, message = FALSE, warning = FALSE)
 
 ## Scripts
@@ -167,6 +167,16 @@ flatten_attributes <- function(df){
     df_wider
   }
 }
+
+# General tests for all questions
+#' @param df A data frame result of hnqis_scoring_form
+#' @param is_mandatory Logical.
+gen_test_for_questions <- function(df, is_mandatory = F){
+  if ("mandatory" %in% names(df)){
+    
+    ifelse(any(df$mandatory == is_mandatory), "Yes", "No")
+  }
+}
 # Test that all questions have the same scoring
 
 test_same_scoring <- function(df){
@@ -175,7 +185,7 @@ test_same_scoring <- function(df){
     passed <- df$score_1 == df$score_2
     # return a helpful object 
     result <- structure(
-      list(answer = ifelse(all(passed), "Yes", "No"),
+      list(answer = ifelse(all(passed) && length(passed) > 0, "Yes", "No"),
            failed = dplyr::filter(df, !passed)), 
       class = "test_same_scoring"
     )
@@ -194,7 +204,7 @@ test_mandatory_scoring  <- function(df, score = "2"){
     
     # return a helpful obj
     result <- structure(
-      list(answer =  ifelse(all(passed), "Yes", "No"),
+      list(answer =  ifelse(all(passed) && length(passed) > 0, "Yes", "No"),
            failed = dplyr::filter(df_mandatory, !passed)),
       class = "test_mandatory_scoring"
     )
@@ -226,11 +236,19 @@ test_none_mandatory_scoring <- function(df, score = "0.000001", ignore_text = F,
         dplyr::filter(., is_parent != T)
     }
     
+    
     if (ignore_real_or_simulated){
       failed <- failed %>%
         dplyr::filter(., answer_option != "Real / Simulated") %>%
-        dplyr::filter(., answer_option != "Réelle / Simulée")
+        dplyr::filter(., answer_option != "Réelle / Simulée") %>% 
+        dplyr::filter(., answer_option !="Real / Simulado") %>%
+        dplyr::filter(., answer_option != "Ver / No Aplicable") %>%
+        dplyr::filter(., answer_option != "Regarder / Non Applicable") %>%
+        dplyr::filter(., answer_option != "Watch / Non Applicable") 
     }
+    
+    
+    
     
     
     
@@ -245,7 +263,7 @@ test_none_mandatory_scoring <- function(df, score = "0.000001", ignore_text = F,
     
     # return a helpful obj
     result <- structure(
-      list(answer = ifelse(all(passed), "Yes", "No"),
+      list(answer = ifelse(all(passed) && length(passed) > 0, "Yes", "No"),
            failed = failed),
       class = "test_none_mandatory_scoring"
     )
@@ -377,6 +395,30 @@ generate_kable_2 <- function(form_id, baseurl, ...){
   #purrr::pluck(output1[!no_fails], 1)
   #output1
 }
+
+
+# Pull all the scoring forms 
+all_checklists <- readr::read_csv("/Users/isaiahnyabuto/Documents/Workspace/HNQIS/lists/HNQIS lists gen diagnosis.csv") %>%
+  dplyr::filter(., `Needs a scoring update?` != "Not sure") %>%
+  dplyr::arrange(., country)
+
+scoring_forms <- vector("list", length = nrow(all_checklists))
+
+pb <- txtProgressBar(min = 0, max = nrow(all_checklists), style = 3)
+for (i in seq_along(1:nrow(all_checklists))){
+  scoring_forms[[i]] <- hnqis_scoring_form(form_id = all_checklists$id[i], baseurl = all_checklists$server[i])
+  setTxtProgressBar(pb,i)
+}
+
+close(pb)
+
+## refresh accounts
+for (i in seq_along(1:nrow(all_checklists_cred))){
+  login_d[i] <- login_dhis2(baseurl = all_checklists_cred$server[i],
+                            usr = all_checklists_cred$demo_account[i],
+                            pwd = all_checklists_cred$demo_pw[i])
+}
+
 
 
 ```
