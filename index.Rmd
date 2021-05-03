@@ -243,6 +243,7 @@ test_none_mandatory_scoring <- function(df, score = "0.000001", ignore_text = F,
         dplyr::filter(., answer_option != "Réelle / Simulée") %>% 
         dplyr::filter(., answer_option !="Real / Simulado") %>%
         dplyr::filter(., answer_option != "Ver / No Aplicable") %>%
+        dplyr::filter(., answer_option != "Ver / Não Aplicável") %>%
         dplyr::filter(., answer_option != "Regarder / Non Applicable") %>%
         dplyr::filter(., answer_option != "Watch / Non Applicable") 
     }
